@@ -1,5 +1,5 @@
 ---
-menu:
+menu: Home
   after:
     name: About
     weight: 1
