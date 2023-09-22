@@ -1,5 +1,5 @@
   [[main]]
-  name = "Home"
+  name = "主页"
   identifier = "home"
   weight = 100
   url = "/"
