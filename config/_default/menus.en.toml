@@ -30,8 +30,8 @@
   [[main]]
   name = "Papers"
   weight = 510
-  identifier = "papers"
-  url = "/papers/"
+  identifier = "Papers"
+  url = "/Papers/"
   parent = "Academic"  
 
   [[main]]
