@@ -1,8 +1,16 @@
 ---
-title = "这一个关于我的页面"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+menu:
+  after:
+    name: About
+    weight: 1
+  params: 
+    target: _blank
+params:
+    target: _blank
+
+
+title: About
+
 ---
 
 # 我 是一名
