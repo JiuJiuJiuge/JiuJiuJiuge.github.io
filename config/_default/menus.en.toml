@@ -17,7 +17,7 @@
   url = "/portfolio/"
 
   [[main]]
-  name = "About"
+  name = "CCC"
   weight = 400
   identifier = "about"
   url = "/about/"
