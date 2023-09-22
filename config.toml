@@ -46,7 +46,8 @@ localizedDates = false
 [[related.indices]]
   name = 'tags'
   weight = 80
-
+  
+[params]
 title = "I'm JiuJiuJiuge Doe"
 author = "JiuJiuJiuge Doe"
 #copyright = "2020-2021"
@@ -174,3 +175,4 @@ url = "mailto:mail@example.com"
   weight = 1
   identifier = "imprint"
   url = "/imprint/"
+[params]
