@@ -1,7 +1,7 @@
 ---
 menu: 
   after:
-    name: awards
+    name: Awards
     weight: 1
   params: 
     target: _blank
@@ -9,7 +9,7 @@ params:
     target: _blank
 
 
-title: awards
+title: Awards
 
 ---
 
