@@ -1,38 +1,38 @@
   [[main]]
   name = "Home"
-  identifier = "Home"
+  identifier = "home"
   weight = 100
   url = "/"
 
   [[main]]
   name = "Academic"
   weight = 200
-  identifier = "Academic"
-  url = "/Academic/"
+  identifier = "academic"
+  url = "/academic/"
 
   [[main]]
   name = "Work"
   weight = 300
-  identifier = "Work"
+  identifier = "work"
   url = "/Work/"
 
   [[main]]
   name = "Awards"
   weight = 400
-  identifier = "Awards"
-  url = "/Awards/"
+  identifier = "awards"
+  url = "/awards/"
 
   [[main]]
   name = "Life"
   weight = 500
-  identifier = "Life"
+  identifier = "life"
 
   [[main]]
   name = "Papers"
   weight = 510
-  identifier = "Papers"
-  url = "/Papers/"
-  parent = "Academic"  
+  identifier = "papers"
+  url = "/papers/"
+  parent = "academic"  
 
   [[main]]
   name = "Certifications"
