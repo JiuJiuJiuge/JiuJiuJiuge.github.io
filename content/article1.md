@@ -1,5 +1,5 @@
 ---
-menu: Papers
+menu: 
   after:
     name: About
     weight: 1
