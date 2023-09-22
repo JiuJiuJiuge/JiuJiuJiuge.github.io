@@ -23,7 +23,7 @@
   url = "/about/"
 
   [[main]]
-  name = "Accomplishments"
+  name = "DDD"
   weight = 500
   identifier = "accomplishments"
 
