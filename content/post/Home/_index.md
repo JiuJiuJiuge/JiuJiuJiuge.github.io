@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: About
+    name: Home
     weight: 1
   params: 
     target: _blank
@@ -9,7 +9,7 @@ params:
     target: _blank
 
 
-title: About
+title: Home
 
 ---
 
