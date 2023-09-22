@@ -70,7 +70,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: ""
-  author: ahKevinXy
+  author: JiuJiuJiuge
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto  # defaultTheme: light or  dark
@@ -116,7 +116,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/ahKevinXy"
+      url: "https://github.com/JiuJiuJiuge"
     - name: twitter
       url: "img/twitter.png"
     - name: instagram
@@ -133,7 +133,7 @@ params:
       url: "index.xml"
 
   label: # 左上角图标
-    text: "ahKevinXy's Blog"
+    text: "JiuJiuJiuge's Blog"
     icon: "img/Q.gif"
     iconHeight: 35
 
