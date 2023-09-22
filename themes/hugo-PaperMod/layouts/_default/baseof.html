@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+
+<head>
+    <script type="text/javascript" >
+         /* 站点运行时间 */
+function runtime() {
+    window.setTimeout("runtime()", 1000);
+    /* 请修把这里的建站时间换为你自己的 */
+    let startTime = new Date('05/23/2023 08:00:00');
+    let endTime = new Date();
+    let usedTime = endTime - startTime;
+    let days = Math.floor(usedTime / (24 * 3600 * 1000));
+    let leavel = usedTime % (24 * 3600 * 1000);
+    let hours = Math.floor(leavel / (3600 * 1000));
+    let leavel2 = leavel % (3600 * 1000);
+    let minutes = Math.floor(leavel2 / (60 * 1000));
+    let leavel3 = leavel2 % (60 * 1000);
+    let seconds = Math.floor(leavel3 / (1000));
+    let runbox = document.getElementById('run-time');
+    runbox.innerHTML = '本站已运行<i class="far fa-clock fa-fw"></i> '
+        + ((days < 10) ? '0' : '') + days + ' 天 '
+        + ((hours < 10) ? '0' : '') + hours + ' 时 '
+        + ((minutes < 10) ? '0' : '') + minutes + ' 分 '
+        + ((seconds < 10) ? '0' : '') + seconds + ' 秒 ';
+}
+runtime();
+    </script>
+    {{- partial "head.html" . }}
+   
+</head>
+
+<body 
+
+class="
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
+{{- print "list" -}}
+{{- end -}}
+{{- if eq site.Params.defaultTheme `dark` -}}
+{{- print " dark" }}
+{{- end -}}
+" id="top">
+    {{- partialCached "header.html" . .Page -}}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+    <div id="img_cont" class="img_cont" ></div>
+</body>
+
+</html>
