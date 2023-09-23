@@ -2,7 +2,7 @@
 baseURL = "https://JiuJiuJiuge.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "My Personal Website" # 网站title  标题
+title = "My blog" # 网站title  标题
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
