@@ -1,6 +1,6 @@
 # 基础路径
 baseURL = "https://JiuJiuJiuge.github.io"
-languageCode = "en"
+#languageCode = "en"
 #DefaultContentLanguage = "en"
 title = "My Personal Website" # 网站title  标题
 
