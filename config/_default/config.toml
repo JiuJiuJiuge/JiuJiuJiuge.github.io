@@ -1,7 +1,7 @@
 # 基础路径
 baseURL = "https://JiuJiuJiuge.github.io"
-#languageCode = "en"
-#DefaultContentLanguage = "en"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = "My Personal Website" # 网站title  标题
 
 # theme as hugo module
