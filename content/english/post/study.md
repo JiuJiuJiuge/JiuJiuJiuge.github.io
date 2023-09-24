@@ -1,16 +1,14 @@
 +++
 author = "ahKevinXy"
-title = "study hugo first "
+title = "Short Bio "
 date = "2023-09-23"
 description = "Guide to  usage in Hugo"
 tags = [
-    "emoji",
+    "Short Bio",
 ]
 +++
 
-# 这是我第一篇正式文章
-
-> from 
+# 
 
 
 ## 第一步
