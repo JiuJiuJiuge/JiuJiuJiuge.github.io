@@ -62,6 +62,31 @@ TF was defined as the ratio of the trace element content in the stem, leaf, and 
 
 where C<SUB>shoot</SUB> represents the elements concentration in the stem, leaf, and fruit, and C<SUB>root</SUB> mean the trace element concentration of root.
 
+<h3><b>2.5 Multiple linear regression analysis</b></h3>
+
+The relationships between trace element concentration in the fruit and root with the soil trace element content and stoichiometry were determined using a multiple linear regression analysis module in SPSS 20.0 (IBM) software. The regression equations for trace element in the fruit and root were:
+
+<p><center>y=β<SUB>0</SUB>+β<SUB>1</SUB>x<SUB>1</SUB>+β<SUB>2</SUB>x<SUB>2</SUB>+β<SUB>3</SUB>x<SUB>3</SUB>+...+β<SUB>n</SUB>x<SUB>n</center></p>
+
+where β<SUB>0</SUB> is the intercept, β<SUB>n</SUB> is the regression coefficients, x<SUB>n</SUB> is the soil parameter. To ensure the accuracy of the model, soil parameters with a mean VIF<10 were selected as the negative control, and p<0.05 indicated a significant linear correlation between dependent and independent variables.
+
+<h3><b>2.6 Data analysis</b></h3>
+
+All data were statistically analysed using Microsoft Office Excel. ANOVA was conducted to test soil trace elements differences using SPSS 20.0 (IBM, USA). The differences were analysed using the Tukey test (p < 0.05). Origin 2023 was utilized to draw the figures. Principal component analysis was adopted to check the content and stoichiometry distribution of trace elements within different harvest indexes and cultivars. The Mantel test was performed using ‘ggcor’ and ‘ggplot2’ package (R 4.0.2) to reveal the relationship among BAF, TF, and C. oleifera yield.
+
+<h2><b>3. Result</b></h2>
+
+<h3 b>3.1 Soil trace element content</h3 b>
+
+Soil trace elements content was significantly affected by the planting sites, C. oleifera yield, and cultivars. However, no uniform rules were observed for the distribution of different elements (Fig. 1). The content of Ca, Mg, Mn, Cu, Na, and B elements in soil exhibited significant variability across different planting sites. The Ca content in soil ranged from 7 mg kg<sup>-1</sup> to 10 mg kg<sup>-1</sup> for most samples, except for H-XL and H-HJ in SY plantation site, which had a value of more than 20 mg kg<sup>-1</sup>. The soil Mg and Mn contents in CD and CS were significantly higher than in YZ and SY, and soil Mg content was significantly higher in high-yield treatment than that of low-yield treatment. The soil Na content was significantly lower in CD and CS than in YZ and SY, and higher Na content was observed in the soil of high-yield plants for most samples. The B content was significantly affected by planting sites. Specifically, it decreased as the latitude increased. The contents of Ca, Mg, Cu, and Zn were significantly higher in the soil of high-yield plants in most planting sites (Fig. 1).
+
+To better understand the regularity of element distribution, we classified the element content according to plant yield and cultivars. The Mg and B contents (about 27%–34% and 56%–80%, respectively) were higher in the soil of high-yield plants than in low-yield plants (Figs. 2B and 2I). The contents of Fe and Al (around 6% and 4%, respectively) were higher in the soil of cultivar HJ than in cultivar XL (Figs. 2C and 2H). Ca content was lower in the soil of XL than in HJ (Fig. 2A).
+
+We also calculated the stoichiometry of soil trace elements (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) by the ratio of the concentration of every two elements. We obtained 36 groups of stoichiometry within 9 elements. The results with significant differences within different yields or cultivars are displayed in Figs. 3 and S2. High-yield plants had significantly higher B/Zn and B/Na (Figs. 3H and 3I) and significantly lower Fe/Mg, Mn/Mg, and Al/Mg (Figs. 3C, 3D, and 3E). The cultivar type also affected the stoichiometry of soil trace elements, with HJ soil having significantly higher Fe/Ca and Al/Ca (Figs. 3A and 3B). We also found that Al/Cu and B/Cu were significantly high in the soil of high-yield plants, with opposite results for the low-yield plants (Figs. 3F and 3G).
+![Alt text](image.png)
+
+
+
 
 
 
