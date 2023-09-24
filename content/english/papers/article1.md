@@ -54,10 +54,18 @@ BAF was defined as the ratio of element concentration in the aboveground biomass
 
 <p><center>BAF=C<SUB>plant</SUB> / C<SUB>soil<SUB></center></p>
 
-where Cplant represents the element concentration in the root, stem, leaf, and fruit, and Csoil mean the trace element concentration of soil.
+where C<SUB>plant</SUB> represents the element concentration in the root, stem, leaf, and fruit, and C<SUB>soil</SUB> mean the trace element concentration of soil.
 
 TF was defined as the ratio of the trace element content in the stem, leaf, and fruit to that in the roots:
-dasdskdjasldasjdalsdadla
+
+<p><center>TF=C<SUB>shoot</SUB> / C<SUB>root<SUB></center></p>
+
+where C<SUB>shoot</SUB> represents the elements concentration in the stem, leaf, and fruit, and C<SUB>root</SUB> mean the trace element concentration of root.
+
+
+
+
+
 
 
 
