@@ -1,6 +1,6 @@
 +++
 author = "luyukun"
-title = "Education "
+title = "Publications "
 date = "2023-09-20"
 description = "Publications"
 tags = [
