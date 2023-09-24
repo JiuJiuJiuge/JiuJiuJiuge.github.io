@@ -8,6 +8,11 @@ tags = [
 ]
 +++
 
-Central South University of Forest and Technology, Changsha, China (Sep. 2020-Present)
+**School:** Central South University of Forest and Technology, Changsha, China (Sep. 2020-Present)
 
-Bachelor of Argriculture in Soil and Water Conservation (Expected in June 2024)
+**Degree:** Bachelor of Argriculture in Soil and Water Conservation (Expected in June 2024)
+
+**GPA:** 3.5/4
+
+**Relevant Courses:**   
+Soil Science (A), Soil Science Experiment (A), Soil Science Practice (A), Principles of Soil Erosion (A), Principles of Soil Erosion Experiment (A), Hydraulic Experiment (A), Watershed Management (A), Forestry Eco-engineering (A), Comprehensive Production Practice of Soil and Water Conservation (A)
