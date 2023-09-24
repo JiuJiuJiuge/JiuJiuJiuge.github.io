@@ -8,15 +8,10 @@ tags = [
 ]
 +++
 
-# 
+I am currently a senior undergraduate student majoring in Soil and Water Conservation at Central South University of Forestry and Technology.  I consider myself fortunate to be studying in the laboratories of Associate Professor Sheng Lu and Professor Lichao Wu.
 
+My research focus lies in soil nutrition and productivity enhancement, with a particular emphasis on the regulatory mechanisms of soil phosphorus transformation and phosphorus utilization efficiency.  My research interests encompass soil phosphorus fractions, soil aggregation properties, microbiological control mechanisms, and the response of soil physicochemical properties to plant nutrition.
 
-## 第一步
+Currently, I am involved in two research projects related to soil nutrition and two projects exploring global N2O regulation mechanisms.  I have authored two research papers as the first author, which are currently under submission to the *Journal of Soil Science and Plant Nutrient* and *Biology and Fertility of Soils*.
 
-
-## 第二步
-
-
-
-## 第三步
-
+I am currently in the process of applying for PhD programs for the Fall 2024 term, focusing on soil science and environmental science.  Feel free to reach out to me anytime for academic discussions and collaborations!
