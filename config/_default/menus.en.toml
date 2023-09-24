@@ -34,6 +34,13 @@
   url = "/papers/"
   parent = "academic"  
 
+    [[main]]
+  name = "Code"
+  weight = 520
+  identifier = "code"
+  url = "/code/"
+  parent = "academic"  
+
   [[main]]
   name = "Contact"
   weight = 600
