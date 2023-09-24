@@ -1,10 +1,10 @@
 +++
 author = "luyukun"
-title = "Short Bio "
+title = "Education "
 date = "2023-09-23"
-description = "Guide to  usage in Hugo"
+description = "education"
 tags = [
-    "Short Bio",
+    "Education",
 ]
 +++
 
