@@ -36,18 +36,30 @@ Hunan Province has the largest *C. oleifera* plantation in China, covering an ar
 
 <h3><b>2.2 Experimental setup</b></h3>
 
-At each sampling site, *C. oleifera* plants were categorized into high-yield (H) or low-yield (L) groups based on whether their fruit yield was up to 5 kg. Two primary *C. oleifera* cultivars in Hunan Province, Xianglin No. 1 (XL) and Huajing (HJ), were selected for the study. The sampling was conducted in 8–9 years old trees with a planting density of 1200 plants per hectare. Three sample plots, each measuring 20 m ×20 m, were designated for each group (H-XL, L-XL, H-HJ, and L-HJ). Five representative plants were chosen from each plot, and the minimum spacing >3 m. Soil samples from the 0–20 cm layer were collected from four sides of each plant and combined to obtain a composite soil sample. The composite soil sample from the five representative plants was mixed as one sample for subsequent analyses. A total of 12 samples were collected in each sampling site for physical and chemical properties analysed. Details can be found in a previous study (Lu et al. 2022).<p>
-<p>Plant root, stem, leaf, and fruit samples were collected from the five representative plants. In brief, the lateral roots with a diameter of 1 cm were selected as the research objective after digging out *C. oleifera* root. Similarly, the stem with a diameter of nearly 2 cm was collected by cutting it off. The fruit and leaf were collected uniformly from all four sides of each plant. All plant samples were placed in a Ziplock bag and returned to the laboratory, where they were dried for 0.5 h at 105 °C to deactivate enzymes and further dried at 70 °C until a constant weight. The samples were ground through a 0.25 mm sieve for microelement analysis. The yield of *C. oleifera* per plant was calculated by weighing all the harvested fruits.<p>
-<p><h3><b>2.3 Soil physiochemical properties</b></h3></p>
-<p>Soil pH, soil organic matter (SOM), total nitrogen (TN), available nitrogen (AN), total phosphorus (TP), available phosphorus (AP), total potassium (TK), and available potassium (AK) were determined following the method in a previous study (Bao 2000).<p>
-<p>To determine trace element content (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) in soil and plant samples, they were digested using H2SO4 and HClO4. The solution was boiled at 350 ℃ until it was clear and then filtered prior to analysis using standard Agilent inductively coupled plasma-mass spectrometry. All the assays were performed in three replicates.<p>
-<p><h3><b>2.4 Bioconcentration and translocation of the elements</b></h3></p>  
+At each sampling site, *C. oleifera* plants were categorized into high-yield (H) or low-yield (L) groups based on whether their fruit yield was up to 5 kg. Two primary *C. oleifera* cultivars in Hunan Province, Xianglin No. 1 (XL) and Huajing (HJ), were selected for the study. The sampling was conducted in 8–9 years old trees with a planting density of 1200 plants per hectare. Three sample plots, each measuring 20 m ×20 m, were designated for each group (H-XL, L-XL, H-HJ, and L-HJ). Five representative plants were chosen from each plot, and the minimum spacing >3 m. Soil samples from the 0–20 cm layer were collected from four sides of each plant and combined to obtain a composite soil sample. The composite soil sample from the five representative plants was mixed as one sample for subsequent analyses. A total of 12 samples were collected in each sampling site for physical and chemical properties analysed. Details can be found in a previous study (Lu et al. 2022).
+
+Plant root, stem, leaf, and fruit samples were collected from the five representative plants. In brief, the lateral roots with a diameter of 1 cm were selected as the research objective after digging out *C. oleifera* root. Similarly, the stem with a diameter of nearly 2 cm was collected by cutting it off. The fruit and leaf were collected uniformly from all four sides of each plant. All plant samples were placed in a Ziplock bag and returned to the laboratory, where they were dried for 0.5 h at 105 °C to deactivate enzymes and further dried at 70 °C until a constant weight. The samples were ground through a 0.25 mm sieve for microelement analysis. The yield of *C. oleifera* per plant was calculated by weighing all the harvested fruits.
+
+<h3><b>2.3 Soil physiochemical properties</b></h3>
+
+Soil pH, soil organic matter (SOM), total nitrogen (TN), available nitrogen (AN), total phosphorus (TP), available phosphorus (AP), total potassium (TK), and available potassium (AK) were determined following the method in a previous study (Bao 2000).
+
+To determine trace element content (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) in soil and plant samples, they were digested using H2SO4 and HClO4. The solution was boiled at 350 ℃ until it was clear and then filtered prior to analysis using standard Agilent inductively coupled plasma-mass spectrometry. All the assays were performed in three replicates.
+
+<h3><b>2.4 Bioconcentration and translocation of the elements</b></h3>
+
 The ability of *C. oleifera* to accumulate trace elements (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) from soil to the plant biomass was evaluated using the bioaccumulation factor (BAF), while the transfer ability of trace elements to different plant parts was assessed using the translocation factor (TF).
+
 BAF was defined as the ratio of element concentration in the aboveground biomass to that in soil, as the following equation:  
 
 $$
-BAF=
+BAF=C~plant / C~soil
 $$
+
+where Cplant represents the element concentration in the root, stem, leaf, and fruit, and Csoil mean the trace element concentration of soil.
+
+TF was defined as the ratio of the trace element content in the stem, leaf, and fruit to that in the roots:
+dasdskdjasldasjdalsdadla
 
 
 
