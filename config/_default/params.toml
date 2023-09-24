@@ -74,7 +74,7 @@ url = "https://www.instagram.com/ljg1148260815/"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "http://www.luyukun.xyz/contact/"
 
 [mermaid]
 # enable = true
