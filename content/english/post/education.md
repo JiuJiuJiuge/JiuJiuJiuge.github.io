@@ -1,7 +1,7 @@
 +++
 author = "luyukun"
 title = "Education "
-date = "2023-09-23"
+date = "2023-09-21"
 description = "education"
 tags = [
     "Education",
