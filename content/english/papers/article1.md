@@ -4,7 +4,7 @@ title = "The stoichiometry of soil trace elements plays a critical role in regul
 date = "2023-09-23"
 description = "The stoichiometry of soil trace elements plays a critical role in regulating *Camellia Oleifera* nutrient accumulation and production"
 tags = [
-    "Paper",
+    "Submitted in Journal of Soil Science and Plant Nutrient",
 ]
 +++
 
