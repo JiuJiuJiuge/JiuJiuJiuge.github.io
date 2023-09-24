@@ -44,7 +44,7 @@ Plant root, stem, leaf, and fruit samples were collected from the five represent
 
 Soil pH, soil organic matter (SOM), total nitrogen (TN), available nitrogen (AN), total phosphorus (TP), available phosphorus (AP), total potassium (TK), and available potassium (AK) were determined following the method in a previous study (Bao 2000).
 
-To determine trace element content (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) in soil and plant samples, they were digested using H2SO4 and HClO4. The solution was boiled at 350 ℃ until it was clear and then filtered prior to analysis using standard Agilent inductively coupled plasma-mass spectrometry. All the assays were performed in three replicates.
+To determine trace element content (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) in soil and plant samples, they were digested using H<SUB>2</SUB>SO<SUB>4</SUB> and HClO<SUB>4</SUB>. The solution was boiled at 350 ℃ until it was clear and then filtered prior to analysis using standard Agilent inductively coupled plasma-mass spectrometry. All the assays were performed in three replicates.
 
 <h3><b>2.4 Bioconcentration and translocation of the elements</b></h3>
 
@@ -61,6 +61,8 @@ TF was defined as the ratio of the trace element content in the stem, leaf, and 
 <p><center>TF=C<SUB>shoot</SUB> / C<SUB>root<SUB></center></p>
 
 where C<SUB>shoot</SUB> represents the elements concentration in the stem, leaf, and fruit, and C<SUB>root</SUB> mean the trace element concentration of root.
+
+
 
 
 
