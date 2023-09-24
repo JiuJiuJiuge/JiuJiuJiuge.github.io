@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-**School:** Central South University of Forest and Technology, Changsha, China (Sep. 2020-Present)
+**School:** Central South University of Forestry and Technology, Changsha, China (Sep. 2020-Present)
 
 **Degree:** Bachelor of Argriculture in Soil and Water Conservation (Expected in June 2024)
 
