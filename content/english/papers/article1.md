@@ -52,9 +52,7 @@ The ability of *C. oleifera* to accumulate trace elements (Ca, Mg, Fe, Mn, Cu, Z
 
 BAF was defined as the ratio of element concentration in the aboveground biomass to that in soil, as the following equation:  
 
-$$
-BAF=C~plant / C~soil
-$$
+<p><center>BAF=C<SUB>plant</SUB> / C<SUB>soil<SUB></center></p>
 
 where Cplant represents the element concentration in the root, stem, leaf, and fruit, and Csoil mean the trace element concentration of soil.
 
