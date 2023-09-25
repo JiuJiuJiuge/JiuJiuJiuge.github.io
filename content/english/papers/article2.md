@@ -112,7 +112,7 @@ The degree of aromatization increased with increasing soil organic matter (Fig. 
 
 Soil enzyme activities were significantly different among *C. oleifera* plantation periods and soil aggregate sizes (Fig. 6). The activity of acid phosphatase significantly decreased with *C. oleifera* plantation length and increased with decreasing soil aggregate size (Fig. 6a). The activity of urease followed the order of Old-Per > Chi-Per > You-Per (Fig. 6b). The activity of sucrase significantly decreased with *C. oleifera* plantation length (Fig. 6c). The activity of catalase was higher in the Old-Per soil than in the two other treatments (Fig. 6d). According to enzyme activities, we could infer that the *C. oleifera* of You-Per period would accumulate a large amount of soil nitrogen and with nitrogen-limited, while the Old-Per period was mainly phosphorus-limited, especially for LM aggregates.
 
-<img src="\images\article2\Fig6.jpg" alt=None/>
+
 
 ***Fig. 6** The variations of soil enzyme activities across different soil aggregates by different cultivation periods. ACP, Ure, SuCr, CAT mean acid phosphatase, urease, sucrase and catalase. Different letters mean significant differences among cultivation periods (P < 0.05).*
 
