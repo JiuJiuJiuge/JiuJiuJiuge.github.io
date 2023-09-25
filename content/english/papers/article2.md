@@ -68,8 +68,18 @@ Soil bacteria community composition was determined by 16S high-throughput sequen
 
 All data were statistically analyzed using Microsoft Office Excel (2003) and further processed in SPSS (version 19.0). Differences between treatments were primarily assessed using ANOVA with Tukey test (p < 0.05) for post-hoc comparison. Figures 1–6 were generated using Python 3.9. The operational taxonomic units (OTUs) of the microbial community, which exhibited significant changes in response to variations in environmental variables, were identified. Threshold values were calculated using Threshold Indicator Taxa Analysis (TITAN) in the "TITAN2" package (Baker and King, 2010). Partial least square path model (PLS-PM) analysis was conducted using the R project.
 
+## **3. Result**
 
+### 3.1 Phosphorus bioaccumulation within different soil water-stable aggregates
 
+Long-term C. oleifera plantations have a significant effect on soil water-stable aggregates composition and the root phosphorus bioaccumulation ability (Fig. 1). The soil water-stable aggregates were mainly composed with 2-0.25 mm particle size (almost 60% percent), followed by >2 mm, and <0.25 mm soil aggregates (Fig. 1a). The P bioaccumulation factor significantly increased with C. oleifera plantation periods in all three kinds of particle size, and especially for the large particle, while it decreased with decreasing particle size (Fig. 1b). The large aggregates had bigger effect on C. oleifera soil nutrient bioavailability than the microaggregates, and the limitation of P became stronger as C. oleifera plantation, especially in large particle sizes.
+
+<img src="\images\article2\Fig1.jpg" alt=None/>  
+*Fig. 1 The distribution of soil water-stable aggregates (a) and phosphorus bioaccumulation factors (b) across different C. oleifera cultivation periods. The cultivation periods were classified as Chi, You, and Old periods. Significant differences among cultivation periods were labeled by different letters (P < 0.05).*
+
+### 3.2 Distribution of phosphorus fractions in soil aggregates
+
+C. oleifera soil was mostly enriched with iron-bound phosphorus (Fe-P) and occluded phosphorus (O-P), followed by calcium-bound phosphorus (Ca-P) and aluminum-bound phosphorus (Al-P) (Fig. 2a). The Fe-P content in the You-Per soil was significantly lower than the two other treatments and with the same distribution pattern in all three kinds of aggregate sizes. The O-P content significantly decreased by 1.2–4.2 mg·kg-1 in the small microaggregate (SM) and Mi, respectively (Fig. 2a). The Al-P was mostly enriched in Mi in the Chi-Per soil with content of more than 18 mg·kg-1, followed by SM in the You-Per soil and finally LM in the Old-Per soil, accounting for 9.47%, 3.84%, and 7.72% of the TP, respectively (Fig. 2b). The O-P, Fe-P, and Al-P for the You-Per soil and Ca-P, Fe-P, and Al-P for the Old-Per soil obtained the biggest descend range in the LM, SM, and Mi aggregates, compared with those in the Chi-Per soil (Fig. 2c).
 
 
 
