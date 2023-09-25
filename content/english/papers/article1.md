@@ -128,72 +128,12 @@ The Mantel test was used to explore the relationships among soil microelement co
 
 Multiple regression analysis can provide a more reliable estimate for the content and stoichiometry of trace elements in soil or plants (Table 1). The R means the dependency level for the regression model, while the adjusted R2 shows the explanatory degree of independent variables to the dependent variables. The results showed that the content of trace elements in C. oleifera fruit mostly depended on their content in soil and root. The contents of Ca, Mg, Fe, Mn, Na, Al, and B were dependent on their content in soil; the contents of Mg, Mn, Zn, and B were also dependent on their content in the root (Tables 1 and S2). The dependency of trace element content in C. oleifera root on their stoichiometry in soil was also calculated. Only the contents of Fe and Al in the root were significantly dependent on their content in soil, while the contents of Ca, Mn, Cu, Zn, and Na significantly relied on their stoichiometry with other elements (Tables 2 and Table S2).
 
-*Table 1 Regression models to estimate trace element content (mg kg<sup>-1</sup>) in C.oleifera fruit based on their content in soil, plant root, stem and leaf.*
+*Table 1 Regression models to estimate trace element content (mg kg<sup>-1</sup>) in C.oleifera fruit based on their content in soil, plant root, stem and leaf.*  
+<img src="\images\article1\table1.jpg" alt=None/>  
+*Note: R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
 
-<table border="1">
-  <tbody>
-    <tr>
-      <td>das</td>
-      <td>dasdas</td>
-      <td>sdad</td>
-      <td>dasdas</td>
-    </tr>
-    <tr>
-      <td>dsad</td>
-      <td>adsdasd</td>
-      <td>dasdsadasd</td>
-      <td>dasdasda</td>
-    </tr>
-    <tr>
-      <td>dasdsas</td>
-      <td>dsaddad</td>
-      <td>dasdsa</td>
-      <td>dda</td>
-    </tr>
-    <tr>
-      <td>d</td>
-      <td>dd</td>
-      <td>dddd</td>
-      <td>ddd</td>
-    </tr>
-    <tr>
-      <td>d</td>
-      <td>d</td>
-      <td>dddd</td>
-      <td>dddd</td>
-    </tr>
-    <tr>
-      <td>d</td>
-      <td>ddd</td>
-      <td>ddd</td>
-      <td>ddd</td>
-    </tr>
-    <tr>
-      <td>dd</td>
-      <td>dddd</td>
-      <td>dddd</td>
-      <td>ddd</td>
-    </tr>
-    <tr>
-      <td>ddd</td>
-      <td>ddd</td>
-      <td>ddd</td>
-      <td>ddd</td>
-    </tr>
-    <tr>
-      <td>d</td>
-      <td>ddd</td>
-      <td>dddd</td>
-      <td>dddd</td>
-    </tr>
-  </tbody>
-  <colgroup>
-    <col>
-    <col>
-    <col>
-    <col>
-  </colgroup>
-</table>
+
+
 
 
 
