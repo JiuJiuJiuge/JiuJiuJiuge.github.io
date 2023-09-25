@@ -92,15 +92,21 @@ In the C. oleifera soil, the phosphorus adsorption capacity was significantly di
 
 <img src="\images\article2\Fig3.jpg" alt=None/>  
 
+***Fig. 3** The phosphorus isothermal adsorption curves of different soil aggregates during different C. oleifera cultivation periods. LM, representing large macroaggregates (>2 mm); SM, representing small macroaggregates (2–0.25 mm); and Mi, representing microaggregates (<0.25 mm). R2 mean the fit coefficient by Langmuir.*
+
 ### 3.4 Relationship between soil phosphorus fractions and SOM
 
 Linear regression analysis was used to reveal the relationship between soil AP content with other soil chemical properties. Soil AP content was significantly correlated with the content of SOM (Fig. 4, Fig. S1). The soil AP content showed significant negative correlation with SOM, with the maximum decline in the LM particles (Fig. 4a). Different kinds of phosphorus fractions showed negative correlation with SOM, and the soil Al-P content had the maximum decline in the Mi aggregate (Fig. 4b). The Ca-P content had the maximum decline in the LM aggregate with increasing SOM content (Fig. 4c).
 
 <img src="\images\article2\Fig4.jpg" alt=None/>  
 
+***Fig. 4** The linear relationship between soil organic matter (SOM) and soil phosphorus fractions content. The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression. The bars mean the slopes of phosphorus fractions with SOM in different kinds of aggregates, with the colors corresponding to the lines.*
+
 The degree of aromatization increased with increasing soil organic matter (Fig. S2, Tab. S3). All the four kinds of soil phosphorus fractions were negatively correlated with increasing content of non-hydrophilic groups (as C=C) (Fig. 5 a, c). By contrast, the content of hydrophilic groups (as -OH) in soil had a positive correlation with the contents of Al-P, O-P, and Ca-P (Fig. 5 b, d). The results also showed that the phosphorus fraction with higher plant bioavailability would decrease more sharply with increasing content of non-hydrophilic groups (Fig. 5 c).
 
 <img src="\images\article2\Fig5.jpg" alt=None/>
+
+***Fig. 5** The linear relationship between the abundances of soil functional groups (C=C, -OH) and concentration of different phosphorus fractions. The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression. The bars (c, d) were represented by slopes of the lines in (a, b), with the colors corresponding to the lines.*
 
 ### 3.5 Variations in soil enzyme activities
 
@@ -108,15 +114,21 @@ Soil enzyme activities were significantly different among C. oleifera plantation
 
 <img src="\images\article2\Fig6.jpg" alt=None/>
 
+***Fig. 6** The variations of soil enzyme activities across different soil aggregates by different cultivation periods. ACP, Ure, SuCr, CAT mean acid phosphatase, urease, sucrase and catalase. Different letters mean significant differences among cultivation periods (P < 0.05).*
+
 ### 3.6 Soil bacteria community composition
 
 Soil bacteria diversity increased with C. oleifera plantation (Fig. S4) and was significantly correlated with TN, AN, NH4+, O-P, Al-P, and Ure in LM (Fig. 7a), with SOM, AK, AP, O-P, Al-P, ACP, and SuCr in SM (Fig. 7b) and SOM, AK, AP, O-P, Al-P, ACP, Ure, SuCr, and CAT in Mi (Fig. 7c). Soil bacteria diversity was positively correlated with soil O-P, Al-P, and Fe-P content in LM aggregates but negatively correlated with soil O-P, Al-P, and Fe-P content in SM and Mi aggregates.
 
 <img src="\images\article2\Fig7.jpg" alt=None/>
 
+***Fig. 7** The correlation between soil environment factors and bacteria bacteria diversity in different soil aggregates (< 2mm, 2-0.25mm, >0.25mm). Each circle in the graph represents the correlation between two corresponding indicators in the horizontal and vertical directions. The intensity of color represents the size of the Pearson correlation coefficient, with green indicating a negative Pearson coefficient and orange indicating a positive Pearson coefficient. The results with significant differences (P values < 0.05) are shown with *P < 0.05, **P < 0.01, and *** P < 0.001.*
+
 The relationship between indicator OTUs and phosphorus fractions was investigated using TITAN, which is based on increases (z+) or decreases (z–) in the abundance of indicator OTUs (Fig. 8). The contents of Al-P, Fe-P, and O-P were mainly correlated with phyla Proteobacteria, Verrucomicrobia, and Chloroflexi, while that of Ca-P was mainly correlated with phyla Acidobacteria, Patescibacteria, and Proteobacteria (Fig. 8). The results indicate that different kinds of phosphorus fractions were regulated by different kinds of bacteria.
 
 <img src="\images\article2\Fig8.jpg" alt=None/>
+
+***Fig. 8** The relation of alteration in microbial operational taxonomic unit (OTU) abundance to soil phosphorus fractions content is presented by using the threshold indicator taxa analyses (TITAN). Each OTU is represented with subordinate phyla indicated by different colors, with filled symbols denoting a decline in abundance (z-) and open symbols indicating an increase in abundance (z+).*
 
 ### 3.7 Correlation between soil properties and phosphorus availability
 
@@ -125,6 +137,8 @@ According to Mantel test, soil phosphorus fractions have different degrees of re
 Among chemical properties, SOM content, C/N ratio, and soil organic matter functional group were some of the most important indices that affect soil phosphorus availability. The adsorption capacity of soil water-stable aggregates and soil texture were key physical factors that affect soil phosphorus availability. Bacteria community composition and soil enzyme activities were the soil biological properties (Fig. 9c).
 
 <img src="\images\article2\Fig9.jpg" alt=None/>
+
+***Fig. 9** The relationship between soil phosphorus fractions to different soil properties was analyzed by Mantel tests with a color gradient denoting (a), partial least square path model (PLS-PM) (b). The Pearson's correlation coefficients of different factors were continued analyzed (c). The line width indicates the of influence strength, and solid lines mean significant correlated between different factors. R2 represent the percentage of each variable contributes to the total variance, with * indicating significance at p < 0.05, ** indicating significance at p < 0.01, and *** indicating significance at p < 0.001.*
 
 ## 4. Discussion
 ### 4.1 Activity and redistribution of soil phosphorus fractions in aggregates
@@ -142,6 +156,8 @@ After long-time C. oleifera plantation, the soil phosphorus adsorption significa
 The contents of Fe-P, Al-P, and O-P were significantly positively correlated with bacteria OTUs and richness (Fig. 7) and the abundance of dominant communities (Chloroflexi, Proteobacteria, Verrucomicrobia, and Elusimicrobia) (Fig. 8, Fig. S5). Previous studies indicated that Proteobacteria are dominant copiotrophic microorganisms with high carbon utilization efficiency and net carbon mineralization rates, along with significant phosphate-solubilizing capacity (Fierer et al., 2007). Chloroflexi prefers nutrient-poor soil, and their significant presence indicates that the soil is in a phosphorus-deficient state (Wang et al., 2019). Soil phosphorus activation depends on microbial activity through organic and inorganic acid release from microbes (Zhu et al., 2018) and discharge through hydrolysis by phosphatase activity (Chen et al., 2006, Qiu et al., 2011). Under low-phosphorus conditions, soil inorganic pyrophosphate (PPi) is relatively stable (Gutiérrez-Luna et al., 2018). Microbes and plants could extract PPi from less soluble phosphorus sources (such as Ca-P) and release large amounts of H+ to soil (Akhtar et al., 2009). Soil phosphorus deficiency would accelerate soil acidification and microbial community evolution, which in return promotes the transformation of refractory phosphorus (Fig. 10).
 
 <img src="\images\article2\Fig10.jpg" alt=None/>
+
+***Fig. 10** Conceptual diagram illustrating how soil aggregates and their biochemical factors influence the redistribution of soil phosphorus fractions and the uptake of available phosphorus by C. oleifera at different cultivation stand ages. (Created with BioRender.com)*
 
 ## 5. Conclusions
 
