@@ -133,7 +133,7 @@ Multiple regression analysis can provide a more reliable estimate for the conten
 *Note: R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
 
 ***Table 2** Regression models to estimate trace element content (mg kg<SUP>-1</SUP>) in C. oleifera root based on their content in soil, and stoichiometry with other elements.*
-<img src="\images\article1\table2.jpg" alt=None/>  
+<img src="\images\article1\Table2.jpg" alt=None/>  
 *Note: R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
 
 
