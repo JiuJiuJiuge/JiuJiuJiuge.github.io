@@ -104,6 +104,12 @@ By analysis the trace elements concentration in different parts of the C.oleifer
 
 *Fig. 4 Distribution of trace elements in different part of C.oleifera with different yield and cultivars. The gray color mean fruit part, light bule color mean stem part, light brown color mean leaf part, and brown color mean root; YZ, SY, CD, CS mean Yongzhou, Shaoyang, Changde, and Changsha City; H, L mean high and low yield treatment; XL, HJ mean Xianglin No. 1 and Huajing cultival. Different letters among treatments indicate significant differences at the p<0.05-probability level. Error bars are standard errors.*
 
+### **3.3 Bio-accumulation and translocation factor**
+
+The bio-accumulation factor (BAF) was significantly different with different yield and cultivar plants (Fig. 5). C.oleifera root has the biggest BAF of Mg (6.52%-13.07%), accompanied by B (6.52%-8.74%) and Na (2.09%-6.61%), but high-yield treatments have significantly lower BAF of Mg, B and Na than the low-yield treatments (Fig. 5A). The BAF of C.oleifera leaf was list as B (24.42%-246.21%), Ca (6.12%-9.66%), and Mg (4.43%-8.09%), and the cultivars were the main reason for differences of the BAF, as significantly higher Ca, Mg, and Na BAF for HJ (Fig. 5B). The stem also has significantly higher BAF of B (13.01%-25.83%), Mg (7.28%-12.93%), and Ca (3.89%-6.25%), and low-yield plants have significantly higher BAF of B and Al (Fig. 5C). The fruit has significantly higher BAF of B (4.55%-18.39%), Mg (3.57%-6.04%), and Na (1.47%-3.39%), and the BAF were significantly different with different plants yield (Fig. 5D).
+
+<img src="\images\article1\Fig5.jpg" alt=None/>
+
 
 
 
