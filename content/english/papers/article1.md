@@ -110,6 +110,12 @@ The bio-accumulation factor (BAF) was significantly different with different yie
 
 <img src="\images\article1\Fig5.jpg" alt=None/>
 
+*Fig. 5 The bio-accumulation factor for C. oleifera (A) root; (B) leaf; (C) stem and (D) fruit. HJ-H mean high yield plants of Huajing; HJ-L mean low yield plants of Huajing; XL-H mean high yield plants of Xianglin No. 1; XL-L mean low yield plants of Xianglin No. 1. Different letters among treatments indicate significant differences at the p<0.05 probability level. Error bars are standard errors.*
+
+The elements Ca, Mn B and Na were high for bio-accumulation factor, and also for the TF. The TF for C.oleifera leaf was significantly different with plant yield, the TF of Mn for high and low yield plant leaf were 6.38%-13.88%, 19.59%-23.48%, respectively. The TF of Ca were 5.19%-5.75%, 4.15%-4.63% for high and low yield plant leaf. The TF was also significantly with different with different cultivars, the TF for HJ was significantly higher for Na, Mg, and lower for Al (Fig.6A).
+The TF for C.oleifera stem was significantly different with plant yield and cultivars, with significantly higher TF of Ca, Fe and lower Cu, Na for the high-yield treatment, while significantly higher TF of Mn, and B for the HJ cultivar (Fig.6B). The TF for C.oleifera fruit was mainly different with plant yield, the high yield plants with significantly higher TF of Fe, and lower TF of B, Mg and Cu (Fig.6C).
+
+<img src="\images\article1\Fig6.jpg" alt=None/>
 
 
 
