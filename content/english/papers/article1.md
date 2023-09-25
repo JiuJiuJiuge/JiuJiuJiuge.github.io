@@ -90,7 +90,20 @@ To better understand the regularity of element distribution, we classified the e
 
 *Fig. 2 Distribution of trace elements in soil with different yield and cultivars. XL, HJ mean Xianglin No. 1 and Huajing cultivar.*
 
-We also calculated the stoichiometry of soil trace elements (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) by the ratio of the concentration of every two elements. We obtained 36 groups of stoichiometry within 9 elements. The results with significant differences within different yields or cultivars are displayed in Figs. 3 and S2. High-yield plants had significantly higher B/Zn and B/Na (Figs. 3H and 3I) and significantly lower Fe/Mg, Mn/Mg, and Al/Mg (Figs. 3C, 3D, and 3E). The cultivar type also affected the stoichiometry of soil trace elements, with HJ soil having significantly higher Fe/Ca and Al/Ca (Figs. 3A and 3B). We also found that Al/Cu and B/Cu were significantly high in the soil of high-yield plants, with opposite results for the low-yield plants (Figs. 3F and 3G). 
+We also calculated the stoichiometry of soil trace elements (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) by the ratio of the concentration of every two elements. We obtained 36 groups of stoichiometry within 9 elements. The results with significant differences within different yields or cultivars are displayed in Figs. 3 and S2. High-yield plants had significantly higher B/Zn and B/Na (Figs. 3H and 3I) and significantly lower Fe/Mg, Mn/Mg, and Al/Mg (Figs. 3C, 3D, and 3E). The cultivar type also affected the stoichiometry of soil trace elements, with HJ soil having significantly higher Fe/Ca and Al/Ca (Figs. 3A and 3B). We also found that Al/Cu and B/Cu were significantly high in the soil of high-yield plants, with opposite results for the low-yield plants (Figs. 3F and 3G).  
+
+<img src="\images\article1\Fig3.jpg" alt=None/>
+
+*Fig. 3 Distribution of trace element stoichiometry in soil with different yield and cultivars. XL, HJ mean Xianglin No. 1 and Huajing cultivar.*
+
+### **3.2 Plant trace elements content**
+
+By analysis the trace elements concentration in different parts of the C.oleifera, we can know the trace elements bio-accumulation and distribution within different yields and cultivars plants. Most of the elements (as Mg, Fe, Cu, Zn, Na, and Al) were storage in the C.oleifera root, then were the stem (as Ca, Mg, Cu, Zn, and Na), also some elements (as Ca, Mn, Al, and B) were mainly storage in the leaf (Fig. 4). After compared the trace elements within different yield treatments, we found that high-yield plants would transport more Ca, Mg, Fe and B to the shoot, while low-yield plants would storage higher Fe, Zn, Al in the root (Fig. S3).
+
+<img src="\images\article1\Fig4.jpg" alt=None/>
+
+*Fig. 4 Distribution of trace elements in different part of C.oleifera with different yield and cultivars. The gray color mean fruit part, light bule color mean stem part, light brown color mean leaf part, and brown color mean root; YZ, SY, CD, CS mean Yongzhou, Shaoyang, Changde, and Changsha City; H, L mean high and low yield treatment; XL, HJ mean Xianglin No. 1 and Huajing cultival. Different letters among treatments indicate significant differences at the p<0.05-probability level. Error bars are standard errors.*
+
 
 
 
