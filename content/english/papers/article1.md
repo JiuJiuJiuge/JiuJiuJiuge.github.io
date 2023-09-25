@@ -82,19 +82,19 @@ Soil trace elements content was significantly affected by the planting sites, C.
 
 <img src="\images\article1\Fig1.jpg" alt=None/>
 
-*Fig. 1 Soil trace elements content within different experiment sites and cultivars. YZ, SY, CD, CS mean Yongzhou, Shaoyang, Changde, and Changsha City; H, L mean high and low yield treatment; XL, HJ mean Xianglin No.1 and Huajing cultivar. Different letters among treatments of each study site indicate significant differences at the p<0.05 level. Error bars are standard errors.*
+***Fig. 1** Soil trace elements content within different experiment sites and cultivars. YZ, SY, CD, CS mean Yongzhou, Shaoyang, Changde, and Changsha City; H, L mean high and low yield treatment; XL, HJ mean Xianglin No.1 and Huajing cultivar. Different letters among treatments of each study site indicate significant differences at the p<0.05 level. Error bars are standard errors.*
 
 To better understand the regularity of element distribution, we classified the element content according to plant yield and cultivars. The Mg and B contents (about 27%–34% and 56%–80%, respectively) were higher in the soil of high-yield plants than in low-yield plants (Figs. 2B and 2I). The contents of Fe and Al (around 6% and 4%, respectively) were higher in the soil of cultivar HJ than in cultivar XL (Figs. 2C and 2H). Ca content was lower in the soil of XL than in HJ (Fig. 2A).
 
 <img src="\images\article1\Fig2.jpg" alt=None/>
 
-*Fig. 2 Distribution of trace elements in soil with different yield and cultivars. XL, HJ mean Xianglin No. 1 and Huajing cultivar.*
+***Fig. 2** Distribution of trace elements in soil with different yield and cultivars. XL, HJ mean Xianglin No. 1 and Huajing cultivar.*
 
 We also calculated the stoichiometry of soil trace elements (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) by the ratio of the concentration of every two elements. We obtained 36 groups of stoichiometry within 9 elements. The results with significant differences within different yields or cultivars are displayed in Figs. 3 and S2. High-yield plants had significantly higher B/Zn and B/Na (Figs. 3H and 3I) and significantly lower Fe/Mg, Mn/Mg, and Al/Mg (Figs. 3C, 3D, and 3E). The cultivar type also affected the stoichiometry of soil trace elements, with HJ soil having significantly higher Fe/Ca and Al/Ca (Figs. 3A and 3B). We also found that Al/Cu and B/Cu were significantly high in the soil of high-yield plants, with opposite results for the low-yield plants (Figs. 3F and 3G).  
 
 <img src="\images\article1\Fig3.jpg" alt=None/>
 
-*Fig. 3 Distribution of trace element stoichiometry in soil with different yield and cultivars. XL, HJ mean Xianglin No. 1 and Huajing cultivar.*
+***Fig. 3** Distribution of trace element stoichiometry in soil with different yield and cultivars. XL, HJ mean Xianglin No. 1 and Huajing cultivar.*
 
 ### **3.2 Plant trace elements content**
 
@@ -102,7 +102,7 @@ The bioaccumulation and distribution of trace elements in plants were determined
 
 <img src="\images\article1\Fig4.jpg" alt=None/>
 
-*Fig. 4 Distribution of trace elements in different part of C.oleifera with different yield and cultivars. The gray color mean fruit part, light bule color mean stem part, light brown color mean leaf part, and brown color mean root; YZ, SY, CD, CS mean Yongzhou, Shaoyang, Changde, and Changsha City; H, L mean high and low yield treatment; XL, HJ mean Xianglin No. 1 and Huajing cultival. Different letters among treatments indicate significant differences at the p<0.05-probability level. Error bars are standard errors.*
+***Fig. 4** Distribution of trace elements in different part of C.oleifera with different yield and cultivars. The gray color mean fruit part, light bule color mean stem part, light brown color mean leaf part, and brown color mean root; YZ, SY, CD, CS mean Yongzhou, Shaoyang, Changde, and Changsha City; H, L mean high and low yield treatment; XL, HJ mean Xianglin No. 1 and Huajing cultival. Different letters among treatments indicate significant differences at the p<0.05-probability level. Error bars are standard errors.*
 
 ### **3.3 Bio-accumulation and translocation factor**
 
@@ -110,13 +110,13 @@ The BAF varied significantly among plants with different yields and different cu
 
 <img src="\images\article1\Fig5.jpg" alt=None/>
 
-*Fig. 5 The bio-accumulation factor for C. oleifera (A) root; (B) leaf; (C) stem and (D) fruit. HJ-H mean high yield plants of Huajing; HJ-L mean low yield plants of Huajing; XL-H mean high yield plants of Xianglin No. 1; XL-L mean low yield plants of Xianglin No. 1. Different letters among treatments indicate significant differences at the p<0.05 probability level. Error bars are standard errors.*
+***Fig. 5** The bio-accumulation factor for C. oleifera (A) root; (B) leaf; (C) stem and (D) fruit. HJ-H mean high yield plants of Huajing; HJ-L mean low yield plants of Huajing; XL-H mean high yield plants of Xianglin No. 1; XL-L mean low yield plants of Xianglin No. 1. Different letters among treatments indicate significant differences at the p<0.05 probability level. Error bars are standard errors.*
 
 The TF also varied significantly among plants with different yields and different cultivars. In C. oleifera leaf, the TF of Mn was 6.38%–13.88% in high-yield plants and 19.59%–23.48% in low-yield plants. The TF of Ca was 5.19%–5.75% in high-yield plants and 4.15%–4.63% in low-yield plants. Cultivar HJ exhibited significantly higher TF values of Na and Mg but lower TF of Al than XL (Fig. 6A). In C. oleifera stem, high-yield plants exhibited significantly higher TF values of Ca and Fe and lower TF values of Cu and Na, whereas low-yield the HJ plants exhibited significantly higher TF values of Mn and B (Fig. 6B). In C. oleifera fruit, TF varied significantly among plant with different yield, as high-yield plants with significantly higher TF of Fe and lower TF of B, Mg, and Cu (Fig. 6C).
 
 <img src="\images\article1\Fig6.jpg" alt=None/>
 
-*Fig. 6 The translocation factor for C. oleifera (A) leaf; (B) stem, and (C) fruit. HJ-H mean high yield plants of Huajing; HJ-L mean low yield plants of Huajing; XL-H mean high yield plants of Xianglin No. 1; XL-L mean low yield plants of Xianglin No. 1. Different letters among treatments indicate significant differences at the p<0.05 probability level. Error bars are standard errors.*
+***Fig. 6** The translocation factor for C. oleifera (A) leaf; (B) stem, and (C) fruit. HJ-H mean high yield plants of Huajing; HJ-L mean low yield plants of Huajing; XL-H mean high yield plants of Xianglin No. 1; XL-L mean low yield plants of Xianglin No. 1. Different letters among treatments indicate significant differences at the p<0.05 probability level. Error bars are standard errors.*
 
 ### **3.4 The relationship between soil micro-elements and plant physiological indicators**
 
@@ -124,17 +124,17 @@ The Mantel test was used to explore the relationships among soil microelement co
 
 <img src="\images\article1\Fig7.jpg" alt=None/>
 
-*Fig. 7 The relationship between soil trace elements content (A) and stoichiometry (B) with C. oleifera plant yield, bio-accumulation factor and translocation factor were analyzed by mantel tests with a color gradient denoting Pearson’s correlation coefficients (Pearson’s r). The color of line denotes the statistical significance based on 9,999 permutations (Mantel’s p), and the line width corresponds to the correlations distance (Mantel’s r).*
+***Fig. 7** The relationship between soil trace elements content (A) and stoichiometry (B) with C. oleifera plant yield, bio-accumulation factor and translocation factor were analyzed by mantel tests with a color gradient denoting Pearson’s correlation coefficients (Pearson’s r). The color of line denotes the statistical significance based on 9,999 permutations (Mantel’s p), and the line width corresponds to the correlations distance (Mantel’s r).*
 
 Multiple regression analysis can provide a more reliable estimate for the content and stoichiometry of trace elements in soil or plants (Table 1). The R means the dependency level for the regression model, while the adjusted R2 shows the explanatory degree of independent variables to the dependent variables. The results showed that the content of trace elements in C. oleifera fruit mostly depended on their content in soil and root. The contents of Ca, Mg, Fe, Mn, Na, Al, and B were dependent on their content in soil; the contents of Mg, Mn, Zn, and B were also dependent on their content in the root (Tables 1 and S2). The dependency of trace element content in C. oleifera root on their stoichiometry in soil was also calculated. Only the contents of Fe and Al in the root were significantly dependent on their content in soil, while the contents of Ca, Mn, Cu, Zn, and Na significantly relied on their stoichiometry with other elements (Tables 2 and Table S2).
 
-*Table 1 Regression models to estimate trace element content (mg kg<sup>-1</sup>) in C.oleifera fruit based on their content in soil, plant root, stem and leaf.*  
+***Table 1** Regression models to estimate trace element content (mg kg<sup>-1</sup>) in C.oleifera fruit based on their content in soil, plant root, stem and leaf.*  
 <img src="\images\article1\table1.jpg" alt=None/>  
-*Note: R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
+***Note:** R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
 
 ***Table 2** Regression models to estimate trace element content (mg kg<SUP>-1</SUP>) in C. oleifera root based on their content in soil, and stoichiometry with other elements.*
 <img src="\images\article1\Table2.jpg" alt=None/>  
-*Note: R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
+***Note:** R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
 
 
 
