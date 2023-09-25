@@ -132,12 +132,14 @@ Multiple regression analysis can provide a more reliable estimate for the conten
 |  ----  | ----  |---- |---- |
 | [Ca]=0.11[Leaf]-0.10[Soil]+10.22 | 0.43 | 0.11 | Leaf, Soil |
 | [Mg]=0.39[Soil]-0.12[Root]+0.12[Leaf]+3.06 | 0.78 | 0.58 | Root, Soil |
-|
-|
-|
-|
-|
-|
+| [Fe]=0.01[Soil]+0.39[Leaf]-0.68|0.70|0.45|Leaf, Soil|
+| [Mn]=0.26[Soil]+0.52[Root]-0.38|0.96|0.91|Root, Soil|
+| [Zn]=-0.09[Root]+0.07|0.69|0.42|Root|
+| [Na]=0.87[Soil]+0.95|0.71|0.45|Soil|
+| [Al]=0.03[Soil]+0.97|0.55|0.24|Soil|
+| [B]=4.41[Soil]-0.23[Root]+0.08|0.88|0.77|Root, Soil|
+
+
 
 
 
