@@ -217,7 +217,19 @@ Zhang X., X. Gai, C. Yang, J. Ying, W. Li, X. Du, Z. Zhong, Q. Shao and F. Bian 
 Zheng W., Z. Zhao, Q. Gong, B. Zhai and Z. Li (2018) Responses of fungal–bacterial community and network to organic inputs vary among different spatial habitats in soil. Soil Biol. Biochem. 125:54-63.  
 Zhu J., M. Li and M. Whelan (2018) Phosphorus activators contribute to legacy phosphorus availability in agricultural soils: A review. Sci. Total Environ. 612:522-537. 
 
+## Supplement Tables and Figures
 
+<img src="\images\article2\Figs1.jpg" alt=None/>  
+
+***Fig. S1** The linear relationship between various environment factors (pH, ACP, AK) and available phosphorus (AP) content. The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression.*
+
+<img src="\images\article2\Figs2.jpg" alt=None/>
+
+***Fig. S2** The decomposability of SOM (CH/COO) in different soil aggregates during various cultivation periods. Statistical significance among the cultivation periods is denoted by different letters (P < 0.05) (a). The linear relationship between SOM and decomposability of SOM (CH\COO) in different soil aggregates (b).*
+
+<img src="\images\article2\Figs3.jpg" alt=None/>
+
+***Fig. S3** The linear relationship between soil Ca-P content and soil functional groups in different aggregates. The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (<0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression.*
 
 
 
