@@ -90,6 +90,117 @@ C. oleifera soil was mostly enriched with iron-bound phosphorus (Fe-P) and occlu
 
 In the C. oleifera soil, the phosphorus adsorption capacity was significantly different among different plantation periods and soil aggregate sizes (Fig. 3). When the phosphorus adsorption equilibrium was reached, the capacities of phosphorus adsorption in the equilibrium solution followed the order: Old-Per > You-Per > Chi-Per (Tab. S2). The maximal adsorption capacity (Qm) was significantly higher in the Mi size for the Chi-Per sample and in the LM for the Old-Per sample. Compared with the Chi-Per treatments, the Old-Per Qm decreased by 6.21% for the Mi while increased by 9.14% for the LM (Fig. 3). Furthermore, the adsorption constant K and the maximum buffer capacity (MBC) were significantly higher in LM aggregates than in the two other particle sizes for the three plantation periods (Tab. S2).
 
+<img src="\images\article2\Fig3.jpg" alt=None/>  
+
+### 3.4 Relationship between soil phosphorus fractions and SOM
+
+Linear regression analysis was used to reveal the relationship between soil AP content with other soil chemical properties. Soil AP content was significantly correlated with the content of SOM (Fig. 4, Fig. S1). The soil AP content showed significant negative correlation with SOM, with the maximum decline in the LM particles (Fig. 4a). Different kinds of phosphorus fractions showed negative correlation with SOM, and the soil Al-P content had the maximum decline in the Mi aggregate (Fig. 4b). The Ca-P content had the maximum decline in the LM aggregate with increasing SOM content (Fig. 4c).
+
+<img src="\images\article2\Fig4.jpg" alt=None/>  
+
+The degree of aromatization increased with increasing soil organic matter (Fig. S2, Tab. S3). All the four kinds of soil phosphorus fractions were negatively correlated with increasing content of non-hydrophilic groups (as C=C) (Fig. 5 a, c). By contrast, the content of hydrophilic groups (as -OH) in soil had a positive correlation with the contents of Al-P, O-P, and Ca-P (Fig. 5 b, d). The results also showed that the phosphorus fraction with higher plant bioavailability would decrease more sharply with increasing content of non-hydrophilic groups (Fig. 5 c).
+
+<img src="\images\article2\Fig5.jpg" alt=None/>
+
+### 3.5 Variations in soil enzyme activities
+
+Soil enzyme activities were significantly different among C. oleifera plantation periods and soil aggregate sizes (Fig. 6). The activity of acid phosphatase significantly decreased with C. oleifera plantation length and increased with decreasing soil aggregate size (Fig. 6a). The activity of urease followed the order of Old-Per > Chi-Per > You-Per (Fig. 6b). The activity of sucrase significantly decreased with C. oleifera plantation length (Fig. 6c). The activity of catalase was higher in the Old-Per soil than in the two other treatments (Fig. 6d). According to enzyme activities, we could infer that the C. oleifera of You-Per period would accumulate a large amount of soil nitrogen and with nitrogen-limited, while the Old-Per period was mainly phosphorus-limited, especially for LM aggregates.
+
+<img src="\images\article2\Fig6.jpg" alt=None/>
+
+### 3.6 Soil bacteria community composition
+
+Soil bacteria diversity increased with C. oleifera plantation (Fig. S4) and was significantly correlated with TN, AN, NH4+, O-P, Al-P, and Ure in LM (Fig. 7a), with SOM, AK, AP, O-P, Al-P, ACP, and SuCr in SM (Fig. 7b) and SOM, AK, AP, O-P, Al-P, ACP, Ure, SuCr, and CAT in Mi (Fig. 7c). Soil bacteria diversity was positively correlated with soil O-P, Al-P, and Fe-P content in LM aggregates but negatively correlated with soil O-P, Al-P, and Fe-P content in SM and Mi aggregates.
+
+<img src="\images\article2\Fig7.jpg" alt=None/>
+
+The relationship between indicator OTUs and phosphorus fractions was investigated using TITAN, which is based on increases (z+) or decreases (z–) in the abundance of indicator OTUs (Fig. 8). The contents of Al-P, Fe-P, and O-P were mainly correlated with phyla Proteobacteria, Verrucomicrobia, and Chloroflexi, while that of Ca-P was mainly correlated with phyla Acidobacteria, Patescibacteria, and Proteobacteria (Fig. 8). The results indicate that different kinds of phosphorus fractions were regulated by different kinds of bacteria.
+
+<img src="\images\article2\Fig8.jpg" alt=None/>
+
+### 3.7 Correlation between soil properties and phosphorus availability
+
+According to Mantel test, soil phosphorus fractions have different degrees of response to soil physiochemical and biological properties (Fig. 9a). Partial least squares path modeling (PLS-PM) was used to analyze the most important factors in soil P availability. C. oleifera cultivation had a negative effect on soil chemical properties (R2=0.80, P<0.001) and a significant positive effect on soil physical properties (R2=0.93, P<0.001) and biological properties (R2=0.81, P<0.001). Soil chemical properties play the most important role in regulating soil phosphorus availability (λ=0.85), followed by physical properties (λ=0.74) and biological properties (λ=0.70) (Fig. 9b).
+
+Among chemical properties, SOM content, C/N ratio, and soil organic matter functional group were some of the most important indices that affect soil phosphorus availability. The adsorption capacity of soil water-stable aggregates and soil texture were key physical factors that affect soil phosphorus availability. Bacteria community composition and soil enzyme activities were the soil biological properties (Fig. 9c).
+
+<img src="\images\article2\Fig9.jpg" alt=None/>
+
+## 4. Discussion
+### 4.1 Activity and redistribution of soil phosphorus fractions in aggregates
+
+Soil phosphorus content significantly decreased with C. oleifera plantation, accompanied with significant increase in phosphorus bioaccumulation factor (Fig. 1). Phosphorus deficiency could be the main factor that restricts C. oleifera yield in the Old-Per period. Qiao et al. (2021) found significant P limitation along the C. oleifera stand age by enzymatic stoichiometry analysis. BAF increased more remarkably in LM and SM than in Mi, and the promoted availability of phosphorus in LM or SM will significantly improve the effectiveness of phosphorus. Previous researchers proposed that inorganic phosphorus distribution was affected by the size of the aggregates (Wu et al., 2018). The phosphorus fractions were also significantly affected by aggregates, presented with different distribution patterns. Understanding the dynamics of P fractions in different aggregates is essential for improving soil phosphorus utilization and promoting C. oleifera production.
+
+The fraction of Fe-P was the most abundant form, and it’s content changing pattern in different aggregates with C. oleifera plantation was the same. The availability of Fe-P in different aggregates was also the same. Li et al. (2016) and Wu et al. (2018) reported nearly equal utilization efficiency of Fe-P across different particle sizes. The content of Al-P was relatively low with the characteristic enriched in Mi for the Chi-Per soil, while in the SM and LM for the You-Per and Old-Per soil, respectively (Fig. 2b). Our results corroborated the findings of  Cui et al. (2019), who suggested that the Al-P content slowly decreased with increasing aggregate size. The Al-P accumulated in the Mi in the Chi-Per soil (Fig. 3c) could be the large specific surface area (Li, et al., 2016), but the higher accumulation in the SM or LM after C. oleifera plantation (Fig. 3a, 3b) pronounced the importance of SOM (Cavalcante et al., 2018). The order of contribution of inorganic phosphorus components to crops in soils was Al-P > Fe-P > Ca-P > OP (Yang et al., 2012). Fe-P and Al-P are considered to be moderately available phosphorus; they are involved in long-term soil phosphorus transformation and act as a buffer for easily available phosphorus in agro-ecosystems (Cui, et al., 2019). Understanding the transformation mechanism of Al-P and Fe-P in different aggregates is important to improve the availability of phosphorus.
+
+### 4.2 Soil phosphorus transformation mechanism and driving factors
+
+To reveal the phosphorus transformation mechanism and promote phosphorus bioavailability, we systematically analyzed soil physiochemical and biological properties and their correlation with phosphorus fractions (Fig. 9). In the Chi-Per soil, the BAF of phosphorus was relatively low and remained the same with different kind of aggregates (Fig. 1b). No significant differences were found in different phosphorus fractions, except for Al-P (Fig. 2b). The soil phosphorus adsorption ability increased with decreasing soil aggregate sizes (Fig. 3, Tab. S2) due to the higher specific surface area and adsorption capacity of microaggregates (He, et al., 2021, Hunt et al., 2007). In the meantime, H+ can protonate the groups on the surface of iron–aluminum oxide under acidic conditions; ultimately, the amount of phosphorus adsorbed was higher in fine-grained aggregates (Jin et al., 2006). In our research, AP was significantly negative correlated with SOM content (Fig. 4), and positively correlated with ACP (Fig. 9) and the abundance of Proteobacteria, Verrucomicrobia, and Elusimicrobia (Fig. 8). The phosphorus availability in the Chi-Per treatment was mainly affected by the mineral adsorption capacity under low SOM content and microbial activity.
+
+After long-time C. oleifera plantation, the soil phosphorus adsorption significantly increased in LM and more than Mi (Fig.3). The SOM content and microbial properties played a more important role in regulating soil phosphorus bioavailability in the Old-Per treatment (Fig. 9). SOM with negative charges easily adsorbed onto the surfaces of clay and oxide minerals (Singh et al., 2016), hindering the adsorption of inorganic and organic P compounds with negative charges. The adsorbed SOM can increase the repulsion of phosphate (Hunt, et al., 2007), and organic matter would provide more adsorption sites than minerals, similar to the results of Debicka et al. (2016). Long-term crop plantation will increase the humification degree (Omar et al., 2020) and the stability (Deng et al., 2019) of SOM. The soil aromatization degree increased with C. oleifera plantation, based on the analysis of CH/C=O (Fig. S2), which reflect the degree of SOM decomposability (Chang et al., 2019). According to linear regression analysis, soil phosphorus fractions had a significant negative correlation with the abundance of non-hydrophilic groups and a positive correlation with the abundance of hydrophilic groups (Fig. 5, Fig. S3). In particular, -OH groups can chelate multivalent metal ions, such as Al3+ (Stevenson, 1994), thereby delaying the transformation of labile inorganic phosphate forms that are not strongly adsorbed by the soil. The SOM functional groups have a stronger effect on phosphorus factions with higher bioavailability (Fig. 5). The hydrophilic groups as carboxyl domains with multiple negative charges would re-structure stable phosphate minerals (Yang et al., 2019). The non-hydrophilic group phenolic mainly forms a complex with di- and poly-valent cations (Kovar and Claassen, 2005). Hence, composition but not the quantity of SOM has important influence on phosphorus availability.
+
+The contents of Fe-P, Al-P, and O-P were significantly positively correlated with bacteria OTUs and richness (Fig. 7) and the abundance of dominant communities (Chloroflexi, Proteobacteria, Verrucomicrobia, and Elusimicrobia) (Fig. 8, Fig. S5). Previous studies indicated that Proteobacteria are dominant copiotrophic microorganisms with high carbon utilization efficiency and net carbon mineralization rates, along with significant phosphate-solubilizing capacity (Fierer et al., 2007). Chloroflexi prefers nutrient-poor soil, and their significant presence indicates that the soil is in a phosphorus-deficient state (Wang et al., 2019). Soil phosphorus activation depends on microbial activity through organic and inorganic acid release from microbes (Zhu et al., 2018) and discharge through hydrolysis by phosphatase activity (Chen et al., 2006, Qiu et al., 2011). Under low-phosphorus conditions, soil inorganic pyrophosphate (PPi) is relatively stable (Gutiérrez-Luna et al., 2018). Microbes and plants could extract PPi from less soluble phosphorus sources (such as Ca-P) and release large amounts of H+ to soil (Akhtar et al., 2009). Soil phosphorus deficiency would accelerate soil acidification and microbial community evolution, which in return promotes the transformation of refractory phosphorus (Fig. 10).
+
+<img src="\images\article2\Fig10.jpg" alt=None/>
+
+## 5. Conclusions
+
+Soil phosphorus content is one of the important factors that restrict C. oleifera plantation, especially in long-term plantation soil. The soil phosphorus content decreased, accompanied with increasing bioaccumulation factor. The BAF increased more remarkably in LM and SM than in Mi, and the promoted availability of phosphorus in LM or SM will significantly improve the effectiveness of phosphorus. The significantly higher phosphorus adsorption capacity in Mi for the Chi-Per sample, while it was in the LM for the Old-Per sample. The significant correlation between soil phosphorus fraction with SOM content and microbial properties reflected that the mineral adsorption capacity was the main reason responsible for phosphorus availability in Chi-Per treatment. The SOM content and microbial properties were more important in regulating soil phosphorus bioavailability for long-term C. oleifera plantation soil. Soil AP and different kinds of phosphorus fractions had significant negative correlation with SOM, especially with the content of non-hydrophilic groups. The composition, not the quantity of SOM, plays an important role in regulating phosphorus availability, especially for factions with high bioavailability. The effect of bacterial communities on different phosphorus fractions varied, with stronger negative correlation on fractions with lower bioavailability.
+
+## Funding
+
+This study was financially supported by the National Natural Science Foundation of China (32201539), the Scientific Research Project of Education Department of Hunan Province (20A514), and the Natural Science Foundation of Hunan Province (2020JJ5973).
+
+## Conflict of interests
+
+This manuscript has not been submitted or presented elsewhere in part or entirely and is not under consideration by any other journal. We have read and understood the journal’s policies, and neither the manuscript nor the study violates any of them. There are no conflicts of interest to declare.
+
+## **Reference**
+
+Akhtar M. S., Y. Oki and T. Adachi (2009) Mobilization and Acquisition of Sparingly Soluble P‐Sources by Brassica Cultivars under P‐Starved Environment II. Rhizospheric pH changes, Redesigned Root Architecture and Pi‐Uptake Kinetics. J. Integr. Plant Biol. 51:1024-1039.  
+Baker M. E. and R. S. King (2010) A new method for detecting and interpreting biodiversity and ecological community thresholds. Methods Ecol Evol 1:25-37.  
+Barrow N. (2017) The effects of pH on phosphate uptake from the soil. Plant Soil 410:401-410.  
+Cavalcante H., F. Araújo, N. Noyma and V. Becker (2018) Phosphorus fractionation in sediments of tropical semiarid reservoirs. Sci. Total Environ. 619:1022-1029.  
+Chang H., J. Wang and F. H. Zhang (2019) Effects of continuous cropping with straw return on particulate organic carbon and Fourier transform infrared spectroscopy in cotton field. J. Appl. Ecol. 30:1218-1226.  
+Chen L., L. Wu, S. Qi, C. Yuqi, W. CongYa and L. sheng (2022) Long‐term Camellia oleifera cultivation influences the assembly process of soil bacteria in different soil aggregate particles. Land Degrad. Dev. 34:441-452. https://doi.org/10.1002/ldr.4470  
+Chen Y., P. Rekha, A. Arun, F. Shen, W.-A. Lai and C. C. Young (2006) Phosphate solubilizing bacteria from subtropical soil and their tricalcium phosphate solubilizing abilities. Appl. Soil Ecol. 34:33-41.  
+Cui H., Y. Ou, L. Wang, H. Wu, B. Yan and Y. Li (2019) Distribution and release of phosphorus fractions associated with soil aggregate structure in restored wetlands. Chemosphere 223:319-329.  
+Debicka M., A. Kocowicz, J. Weber and E. Jamroz (2016) Organic matter effects on phosphorus sorption in sandy soils. Arch. Agron. Soil Sci. 62:840-855.  
+DeForest J. L. and D. L. Moorhead (2020) Effects of elevated pH and phosphorus fertilizer on soil C, N and P enzyme stoichiometry in an acidic mixed mesophytic deciduous forest. Soil Biol. Biochem. 150:107996.  
+Deng J., W. Zhu, Y. Zhou and Y. Yin (2019) Soil organic carbon chemical functional groups under different revegetation types are coupled with changes in the microbial community composition and the functional genes. Forests 10:240.  
+Elliott E. and C. Cambardella (1991) Physical separation of soil organic matter. Agric., Ecosyst. Environ. 34:407-419.  
+Fierer N., M. A. Bradford and R. B. Jackson (2007) Toward an ecological classification of soil bacteria. Ecology 88:1354-1364.  
+Fu D., X. Wu, C. Duan, D. R. Chadwick and D. L. Jones (2020) Response of soil phosphorus fractions and fluxes to different vegetation restoration types in a subtropical mountain ecosystem. CATENA 193:104663.  
+Gérard F. (2016) Clay minerals, iron/aluminum oxides, and their contribution to phosphate sorption in soils—A myth revisited. Geoderma 262:213-226.  
+Gutiérrez-Luna F. M., E. E. Hernández-Domínguez, L. G.  Valencia-Turcotte and R. Rodríguez-Sotres (2018) “Pyrophosphate and pyrophosphatases in plants, their involvement in stress responses and their possible relationship to secondary metabolism”. Plant Sci. (Amsterdam, Neth.) 267:11-19.  
+He J., L. Du, C. Zhai, Y. Guan, S. Wu, Z. Zhang, A. O. Ogundeji and S. Gu (2021) Influence of tillage practices on phosphorus forms in aggregates of Mollisols from northeast China. J. Sci. Food Agric. 101:4523-4531.  
+Herlihy M. and D. McGrath (2007) Phosphorus fractions and adsorption characteristics in grassland soils of varied soil phosphorus status. Nutr. Cycl. Agroecosyst. 77:15-27.  
+Hunt J. F., T. Ohno, Z. He, C. W. Honeycutt and D. B. Dail (2007) Inhibition of phosphorus sorption to goethite, gibbsite, and kaolin by fresh and decomposed organic matter. Biol. Fertil. Soils 44:277-288.  
+Jin X., S. Wang, Y. Pang and F. C. Wu (2006) Phosphorus fractions and the effect of pH on the phosphorus release of the sediments from different trophic areas in Taihu Lake, China. Environ. Pollut. 139:288-295.  
+Kovar J. L. and N. Claassen (2005) Soil‐Root Interactions and Phosphorus Nutrition of Plants. Phosphorus: agriculture and the environment 46:379-414.  
+Li B., T. Ge, H. Xiao, Z. Zhu, Y. Li, O. Shibistova, S. Liu, J. Wu, K. Inubushi and G. Guggenberger (2016) Phosphorus content as a function of soil aggregate size and paddy cultivation in highly weathered soils. Environ. Sci. Pollut. Res. 23:7494-7503.  
+Liu J., L. Wu, D. Chen, M. Li and C. Wei (2017) Soil quality assessment of different Camellia oleifera stands in mid-subtropical China. Appl. Soil Ecol. 113:29-35.  
+Meyer G., M. J. Bell, E. Lombi, C. L. Doolette, G. Brunetti, E. H. Novotny, W. Klysubun, Y. Zhang and P. M. Kopittke (2021) Phosphorus speciation in the fertosphere of highly concentrated fertilizer bands. Geoderma 403:115208.  
+Omar Z., A. Bouajila, J. Bouajila, R. Rahmani, H. Besser and Y. Hamed (2020) Spectroscopic and chromatographic investigation of soil organic matter composition for different agrosystems from arid saline soils from Southeastern Tunisia. Arabian J. Geosci. 13:1-13.  
+Pistocchi C., É. Mészáros, F. Tamburini, E. Frossard and E. K. Bünemann (2018) Biological processes dominate phosphorus dynamics under low phosphorus availability in organic horizons of temperate forest soils. Soil Biol. Biochem. 126:64-75.  
+Qaswar M., W. Ahmed, J. Huang, K.-l. Liu, L. Zhang, T.-f. Han, J.-x. Du, A. Sehrish, U.-R. Hafeez and Q.-h. Huang (2022) Interaction of soil microbial communities and phosphorus fractions under long-term fertilization in paddy soil. J. Integr. Agric. 21:2134-2144.  
+Qiao H., L. Chen, Y. Hu, C. Deng, Q. Sun, S. Deng, X. Chen, L. Mei, J. Wu and Y. Su (2021) Soil microbial resource limitations and community assembly along a Camellia oleifera plantation chronosequence. Front Microbiol. 12:736165.  
+Qiu Z.-C., M. Wang, W.-L. Lai, F.-H. He and Z.-H. Chen (2011) Plant growth and nutrient removal in constructed monoculture and mixed wetlands related to stubble attributes. Hydrobiologia 661:251-260.  
+Singh M., B. Sarkar, B. Biswas, J. Churchman and N. S. Bolan (2016) Adsorption-desorption behavior of dissolved organic carbon by soil clay fractions of varying mineralogy. Geoderma 280:47-56.  
+Stevenson F. J. (1994) Humus chemistry: genesis, composition, reactions.  
+Tarafdar J. and A. Jungk (1987) Phosphatase activity in the rhizosphere and its relation to the depletion of soil organic phosphorus. Biol. Fertil. Soils 3:199-204.  
+Tiessen H. and J. Moir (1993) Total and organic carbon. Soil Sampling Methods Anal. 187-199.  
+Vermeiren C., P. Kerckhof, D. Reheul and E. Smolders (2021) Increasing soil organic carbon content can enhance the long‐term availability of phosphorus in agricultural soils. Eur. J. Soil Sci. 73:https://doi.org/10.1111/ejss.13191  
+Wang J., G. Liu, C. Zhang, G. Wang, L. Fang and Y. Cui (2019) Higher temporal turnover of soil fungi than bacteria during long-term secondary succession in a semiarid abandoned farmland. Soil Tillage Res. 194:104305.  
+Wu W., Z. Zheng, T. Li, S. He, X. Zhang, Y. Wang and T. Liu (2018) Distribution of inorganic phosphorus fractions in water-stable aggregates of soil from tea plantations converted from farmland in the hilly region of western Sichuan, China. J. Soils Sediments 18:906-916.  
+Xiong J., Z. Liu, Y. Yan, J. Xu, D. Liu, W. Tan and X. Feng (2022) Role of clay minerals in controlling phosphorus availability in a subtropical Alfisol. Geoderma 409:115592.  
+Yang J., Z. Wang, J. Zhou, H. Jiang, J. Zhang, P. Pan, Z. Han, C. Lu, L. Li and C. Ge (2012) Inorganic phosphorus fractionation and its translocation dynamics in a low-P soil. J. Environ. Radioact. 112:64-69.  
+Yang X., X. Chen and X. Yang (2019) Effect of organic matter on phosphorus adsorption and desorption in a black soil from Northeast China. Soil Tillage Res. 187:85-91.  
+Zhang X., P. Zhu, C. Peng, H. Gao, Q. Li, J. Zhang and Q. Gao (2020) Phosphorus distribution and availability within soil water-stable aggregates as affected by long-term fertilisation. Plant, Soil Environ. 66:552-558.  
+Zhang X., X. Gai, C. Yang, J. Ying, W. Li, X. Du, Z. Zhong, Q. Shao and F. Bian (2021) Effects of chicken farming on soil properties and root-associated bacterial communities in a bamboo (Phyllostachys praecox) ecosystem. Appl. Soil Ecol. 157:103725.  
+Zheng W., Z. Zhao, Q. Gong, B. Zhai and Z. Li (2018) Responses of fungal–bacterial community and network to organic inputs vary among different spatial habitats in soil. Soil Biol. Biochem. 125:54-63.  
+Zhu J., M. Li and M. Whelan (2018) Phosphorus activators contribute to legacy phosphorus availability in agricultural soils: A review. Sci. Total Environ. 612:522-537. 
+
 
 
 
