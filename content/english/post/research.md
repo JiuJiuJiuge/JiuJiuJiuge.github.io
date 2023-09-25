@@ -37,5 +37,6 @@ Tutors: Dr. Sheng Lu, Associate Professor of Soil Science, CSUFT; Dr. Jiayuan Li
 
 ## **Research Assistant**  
 Tutors: Dr. Sheng Lu, Associate Professor of Soil Science, CSUFT; Dr. Jiayuan Liao, SYSU  
-**Project:** *“Soil moisture–atmosphere feedback dominates land N<SUB>2</SUB>O nitrification emissions and denitrification reduction”* 2020-2022
+**Project:** *“Soil moisture–atmosphere feedback dominates land N<SUB>2</SUB>O nitrification emissions and denitrification reduction”* 2020-2022  
+- **Data Extraction from Academic Articles:** Contributed to the screening and extraction of relevant data from 70 out of 907 articles, honing data handling skills and gaining valuable insights into research information retrieval and synthesis.
 
