@@ -236,17 +236,22 @@ Zhou T., Y. Hua, B. Zhang, X. Zhang, Y. Zhou, L. Shi and F. Xu (2017) Low-boron 
 <img src="\images\article1\tables3.jpg" alt=None/>  
 *Variance inflation factor (VIF) < 10 indicates no collinearity between indexes. p< 0.05 indicates a linear correlation between dependent variables and independent variables. R is the multiple correlation coefficient used to judge the linear relationship between the independent variable and the dependent variable. Adjusted R square refers to the explanatory degree of independent variable to dependent variable in regression analysis.*
 
-***Fig. S1** The concentration of marco-elements in different parts of C. oleifera.*  
 <img src="\images\article1\figs1.jpg" alt=None/>
 
-***Fig. S2** Principal component analysis of soil trace element content (A) and stoichiometry (B) distribution. HJ-H: Huajing cultivar with high yield; HJ-L: Huajing cultivar with low yield; XL-H:  Xianglin No. 1 cultivar with high yield; XL-L: Xianglin No. 1 cultivar with low yield.*  
+***Fig. S1** The concentration of marco-elements in different parts of C. oleifera.*  
+
 <img src="\images\article1\figs2.jpg" alt=None/>
 
-***Fig. S3** Distribution of trace elements in different parts of C. oleifera with varying fruit yield. XL: Xianglin No. 1 cultivar; HJ: Huajing cultivar.*  
+***Fig. S2** Principal component analysis of soil trace element content (A) and stoichiometry (B) distribution. HJ-H: Huajing cultivar with high yield; HJ-L: Huajing cultivar with low yield; XL-H:  Xianglin No. 1 cultivar with high yield; XL-L: Xianglin No. 1 cultivar with low yield.*  
+
 <img src="\images\article1\figs3.jpg" alt=None/>
 
-***Fig. S4** Distribution of trace elements in different parts of C. oleifera cultivars. XL: Xianglin No. 1 cultivar; HJ: Huajing cultivar.*  
+***Fig. S3** Distribution of trace elements in different parts of C. oleifera with varying fruit yield. XL: Xianglin No. 1 cultivar; HJ: Huajing cultivar.*  
+
 <img src="\images\article1\figs4.jpg" alt=None/>
+
+***Fig. S4** Distribution of trace elements in different parts of C. oleifera cultivars. XL: Xianglin No. 1 cultivar; HJ: Huajing cultivar.*  
+
 
 
 
