@@ -81,6 +81,13 @@ Long-term C. oleifera plantations have a significant effect on soil water-stable
 
 C. oleifera soil was mostly enriched with iron-bound phosphorus (Fe-P) and occluded phosphorus (O-P), followed by calcium-bound phosphorus (Ca-P) and aluminum-bound phosphorus (Al-P) (Fig. 2a). The Fe-P content in the You-Per soil was significantly lower than the two other treatments and with the same distribution pattern in all three kinds of aggregate sizes. The O-P content significantly decreased by 1.2–4.2 mg·kg-1 in the small microaggregate (SM) and Mi, respectively (Fig. 2a). The Al-P was mostly enriched in Mi in the Chi-Per soil with content of more than 18 mg·kg-1, followed by SM in the You-Per soil and finally LM in the Old-Per soil, accounting for 9.47%, 3.84%, and 7.72% of the TP, respectively (Fig. 2b). The O-P, Fe-P, and Al-P for the You-Per soil and Ca-P, Fe-P, and Al-P for the Old-Per soil obtained the biggest descend range in the LM, SM, and Mi aggregates, compared with those in the Chi-Per soil (Fig. 2c).
 
+<img src="\images\article2\Fig2.jpg" alt=None/>  
+*Fig. 2 The concentration of soil phosphorus fractions (a), the percentage of each kind of phosphorus to total phosphorus content (b), and variation of phosphorus fractions between different cultivation periods (c) were measured in three kinds of soil aggregates. The phosphorus fractions analyzed encompass aluminum-bound phosphorus (Al-P), iron-bound phosphorus (Fe-P), occluded phosphorus (O-P), and calcium-phosphorus (Ca-P). You/Chi represents the difference between You and Chi, and Old/Chi represents the difference between Old and Chi. Soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (< 0.25 mm). Statistical significance among the cultivation periods is denoted by different letters (P < 0.05).*
+
+### 3.3 Phosphorus adsorption characteristic of soil aggregates
+
+In the C. oleifera soil, the phosphorus adsorption capacity was significantly different among different plantation periods and soil aggregate sizes (Fig. 3). When the phosphorus adsorption equilibrium was reached, the capacities of phosphorus adsorption in the equilibrium solution followed the order: Old-Per > You-Per > Chi-Per (Tab. S2). The maximal adsorption capacity (Qm) was significantly higher in the Mi size for the Chi-Per sample and in the LM for the Old-Per sample. Compared with the Chi-Per treatments, the Old-Per Qm decreased by 6.21% for the Mi while increased by 9.14% for the LM (Fig. 3). Furthermore, the adsorption constant K and the maximum buffer capacity (MBC) were significantly higher in LM aggregates than in the two other particle sizes for the three plantation periods (Tab. S2).
+
 
 
 
