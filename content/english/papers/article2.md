@@ -239,11 +239,15 @@ Zhu J., M. Li and M. Whelan (2018) Phosphorus activators contribute to legacy ph
 
 ***Fig. S5** The linear relationship between soil phosphorus fractions content and microbial indicator (OTUs and Simpsons). The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (<0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression.*
 
-
+***Table. S1** The content of major chemical factors in different soil aggregates during various cultivation periods.* 
 
 <img src="\images\article2\tables1.jpg" alt=None/>
 
+***Table. S2** Phosphorus adsorption parameters during various cultivation periods in different soil aggregates.*
+
 <img src="\images\article2\tables2.jpg" alt=None/>
+
+***Table. S3** Relative content of SOM soil functional groups in different soil aggregates during various cultivation periods.*
 
 <img src="\images\article2\tables3.jpg" alt=None/>
 
