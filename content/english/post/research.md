@@ -14,14 +14,17 @@ Tutors: Dr. Sheng Lu, Associate Professor of Soil Science, CSUFT; Dr. LiChao Wu,
 - **Data Visualization with Python:** I employed Python to create bar charts illustrating the distribution of soil aggregates, bioaccumulation factors, phosphorus fractions, and enzyme content across different forest stand ages.  Additionally, I conducted variance analysis using SPSS to scrutinize the results.  
 - **Linear Modeling and Langmuir Isotherm Fitting:** I utilized Python to model the linear relationships between soil phosphorus fractions and key physicochemical properties.  Furthermore, I applied the Langmuir equation to assess phosphorus adsorption, calculating adsorption constants (KL) and maximum buffering capacity (MBC).  
 - **Threshold Indicator Taxa Analysis and PLS Path Modeling:** I conducted threshold indicator taxa analysis in R and developed a partial least square path model (PLS-PM) to explore complex relationships within the data.  
-- **Microbial Diversity and Correlation Analysis:** Using Chiplot, I analyzed the correlation between microbial diversity, soil phosphorus fractions, and soil physicochemical properties.  Pearson's correlation coefficients were calculated to assess the strength and direction of these associations.  
+- **Microbial Diversity and Correlation Analysis:** Using Chiplot, I analyzed the correlation between microbial diversity, soil phosphorus fractions, and soil physicochemical properties. Pearson's correlation coefficients were calculated to assess the strength and direction of these associations.  
 - **Conceptual Diagram Construction with Biorender:** I used Biorender to construct and visually represent conceptual diagrams, aiding in the communication of research concepts and findings.  
 - **Research Paper Development:** I systematically refined the ideas of paper, corrected errors, and developed logical frameworks, leading to the successful completion of research papers.
 
 
 ## **Research Assistant**  
 Tutors: Dr. Sheng Lu, Associate Professor of Soil Science, CSUFT; Dr. LiChao Wu, Professor of Soil Science, CSUFT  
-**Project:** *“The stoichiometry of soil trace elements plays a critical role in regulating Camellia Oleifera nutrient accumulation and production”*, 2021-2023
+**Project:** *“The stoichiometry of soil trace elements plays a critical role in regulating Camellia Oleifera nutrient accumulation and production”*, 2021-2023  
+- **Data Visualization with Origin:** I utilized Origin software to create bar charts, box plots, and conduct principal component analysis for various soil trace elements, enabling a comprehensive examination of their distributions and relationships.  
+- **Mantel Test Analysis with R:** Employing the R programming language, I conducted Mantel Test analyses and generated bioaccumulation factor, translocation factor, and C. oleifera yield plots to investigate their correlations with soil trace element content and stoichiometric ratios.  
+- **Logical Framework Refinement and Paper Writing:** Throughout the research process, I meticulously refined the logical framework and actively contributed to the preparation of research papers.
 
 
 ## **Research Assistant**  
