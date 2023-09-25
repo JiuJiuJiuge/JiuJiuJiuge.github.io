@@ -130,7 +130,7 @@ Multiple regression analysis can provide a more reliable estimate for the conten
 
 *Table 1 Regression models to estimate trace element content (mg kg<sup>-1</sup>) in C.oleifera fruit based on their content in soil, plant root, stem and leaf.*
 
-<table>
+<table border="1">
   <tbody>
     <tr>
       <td>das</td>
