@@ -75,6 +75,7 @@ All data were statistically analyzed using Microsoft Office Excel (2003) and fur
 Long-term C. oleifera plantations have a significant effect on soil water-stable aggregates composition and the root phosphorus bioaccumulation ability (Fig. 1). The soil water-stable aggregates were mainly composed with 2-0.25 mm particle size (almost 60% percent), followed by >2 mm, and <0.25 mm soil aggregates (Fig. 1a). The P bioaccumulation factor significantly increased with C. oleifera plantation periods in all three kinds of particle size, and especially for the large particle, while it decreased with decreasing particle size (Fig. 1b). The large aggregates had bigger effect on C. oleifera soil nutrient bioavailability than the microaggregates, and the limitation of P became stronger as C. oleifera plantation, especially in large particle sizes.
 
 <img src="\images\article2\Fig1.jpg" alt=None/>  
+
 *Fig. 1 The distribution of soil water-stable aggregates (a) and phosphorus bioaccumulation factors (b) across different C. oleifera cultivation periods. The cultivation periods were classified as Chi, You, and Old periods. Significant differences among cultivation periods were labeled by different letters (P < 0.05).*
 
 ### 3.2 Distribution of phosphorus fractions in soil aggregates
