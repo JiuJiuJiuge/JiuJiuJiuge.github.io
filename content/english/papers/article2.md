@@ -231,11 +231,21 @@ Zhu J., M. Li and M. Whelan (2018) Phosphorus activators contribute to legacy ph
 
 ***Fig. S3** The linear relationship between soil Ca-P content and soil functional groups in different aggregates. The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (<0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression.*
 
+<img src="\images\article2\Figs4.jpg" alt=None/>
+
+***Fig. S4** The variations in microbial diversity across three distinct soil aggregates during different cultivation periods, with significant differences among cultivation periods denoted by distinct letters (P < 0.05).*
+
+<img src="\images\article2\Figs5.jpg" alt=None/>
+
+***Fig. S5** The linear relationship between soil phosphorus fractions content and microbial indicator (OTUs and Simpsons). The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (<0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression.*
 
 
 
+<img src="\images\article2\tables1.jpg" alt=None/>
 
+<img src="\images\article2\tables2.jpg" alt=None/>
 
+<img src="\images\article2\tables3.jpg" alt=None/>
 
 
 
