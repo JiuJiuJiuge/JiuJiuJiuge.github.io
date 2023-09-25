@@ -76,7 +76,7 @@ Long-term C. oleifera plantations have a significant effect on soil water-stable
 
 <img src="\images\article2\Fig1.jpg" alt=None/>  
 
-*Fig. 1 The distribution of soil water-stable aggregates (a) and phosphorus bioaccumulation factors (b) across different C. oleifera cultivation periods. The cultivation periods were classified as Chi, You, and Old periods. Significant differences among cultivation periods were labeled by different letters (P < 0.05).*
+***Fig. 1** The distribution of soil water-stable aggregates (a) and phosphorus bioaccumulation factors (b) across different C. oleifera cultivation periods. The cultivation periods were classified as Chi, You, and Old periods. Significant differences among cultivation periods were labeled by different letters (P < 0.05).*
 
 ### 3.2 Distribution of phosphorus fractions in soil aggregates
 
@@ -84,11 +84,13 @@ C. oleifera soil was mostly enriched with iron-bound phosphorus (Fe-P) and occlu
 
 <img src="\images\article2\Fig2.jpg" alt=None/>  
 
-*Fig. 2 The concentration of soil phosphorus fractions (a), the percentage of each kind of phosphorus to total phosphorus content (b), and variation of phosphorus fractions between different cultivation periods (c) were measured in three kinds of soil aggregates. The phosphorus fractions analyzed encompass aluminum-bound phosphorus (Al-P), iron-bound phosphorus (Fe-P), occluded phosphorus (O-P), and calcium-phosphorus (Ca-P). You/Chi represents the difference between You and Chi, and Old/Chi represents the difference between Old and Chi. Soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (< 0.25 mm). Statistical significance among the cultivation periods is denoted by different letters (P < 0.05).*
+***Fig. 2** The concentration of soil phosphorus fractions (a), the percentage of each kind of phosphorus to total phosphorus content (b), and variation of phosphorus fractions between different cultivation periods (c) were measured in three kinds of soil aggregates. The phosphorus fractions analyzed encompass aluminum-bound phosphorus (Al-P), iron-bound phosphorus (Fe-P), occluded phosphorus (O-P), and calcium-phosphorus (Ca-P). You/Chi represents the difference between You and Chi, and Old/Chi represents the difference between Old and Chi. Soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (< 0.25 mm). Statistical significance among the cultivation periods is denoted by different letters (P < 0.05).*
 
 ### 3.3 Phosphorus adsorption characteristic of soil aggregates
 
 In the C. oleifera soil, the phosphorus adsorption capacity was significantly different among different plantation periods and soil aggregate sizes (Fig. 3). When the phosphorus adsorption equilibrium was reached, the capacities of phosphorus adsorption in the equilibrium solution followed the order: Old-Per > You-Per > Chi-Per (Tab. S2). The maximal adsorption capacity (Qm) was significantly higher in the Mi size for the Chi-Per sample and in the LM for the Old-Per sample. Compared with the Chi-Per treatments, the Old-Per Qm decreased by 6.21% for the Mi while increased by 9.14% for the LM (Fig. 3). Furthermore, the adsorption constant K and the maximum buffer capacity (MBC) were significantly higher in LM aggregates than in the two other particle sizes for the three plantation periods (Tab. S2).
+
+
 
 
 
