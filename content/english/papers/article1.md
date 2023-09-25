@@ -128,9 +128,16 @@ The Mantel test was used to explore the relationships among soil microelement co
 
 Multiple regression analysis can provide a more reliable estimate for the content and stoichiometry of trace elements in soil or plants (Table 1). The R means the dependency level for the regression model, while the adjusted R2 shows the explanatory degree of independent variables to the dependent variables. The results showed that the content of trace elements in C. oleifera fruit mostly depended on their content in soil and root. The contents of Ca, Mg, Fe, Mn, Na, Al, and B were dependent on their content in soil; the contents of Mg, Mn, Zn, and B were also dependent on their content in the root (Tables 1 and S2). The dependency of trace element content in C. oleifera root on their stoichiometry in soil was also calculated. Only the contents of Fe and Al in the root were significantly dependent on their content in soil, while the contents of Ca, Mn, Cu, Zn, and Na significantly relied on their stoichiometry with other elements (Tables 2 and Table S2).
 
-
-
-
+|Regression equation|R|Adjusted R2|Importance of factors|
+|  ----  | ----  |---- |---- |
+| [Ca]=0.11[Leaf]-0.10[Soil]+10.22 | 0.43 | 0.11 | Leaf, Soil |
+| [Mg]=0.39[Soil]-0.12[Root]+0.12[Leaf]+3.06 | 0.78 | 0.58 | Root, Soil |
+|
+|
+|
+|
+|
+|
 
 
 
