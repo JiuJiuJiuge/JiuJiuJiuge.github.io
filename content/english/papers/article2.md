@@ -100,13 +100,13 @@ Linear regression analysis was used to reveal the relationship between soil AP c
 
 <img src="\images\article2\Fig4.jpg" alt=None/>  
 
-***Fig. 4** The linear relationship between soil organic matter (SOM) and soil phosphorus fractions content. The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression. The bars mean the slopes of phosphorus fractions with SOM in different kinds of aggregates, with the colors corresponding to the lines.*
+<i>**Fig. 4** The linear relationship between soil organic matter (SOM) and soil phosphorus fractions content. The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression. The bars mean the slopes of phosphorus fractions with SOM in different kinds of aggregates, with the colors corresponding to the lines.* </i>
 
 The degree of aromatization increased with increasing soil organic matter (Fig. S2, Tab. S3). All the four kinds of soil phosphorus fractions were negatively correlated with increasing content of non-hydrophilic groups (as C=C) (Fig. 5 a, c). By contrast, the content of hydrophilic groups (as -OH) in soil had a positive correlation with the contents of Al-P, O-P, and Ca-P (Fig. 5 b, d). The results also showed that the phosphorus fraction with higher plant bioavailability would decrease more sharply with increasing content of non-hydrophilic groups (Fig. 5 c).
 
 <img src="\images\article2\Fig5.jpg" alt=None/>
 
-***Fig. 5** The linear relationship between the abundances of soil functional groups (C=C, -OH) and concentration of different phosphorus fractions. The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression. The bars (c, d) were represented by slopes of the lines in (a, b), with the colors corresponding to the lines.*
+<i>**Fig. 5** The linear relationship between the abundances of soil functional groups (C=C, -OH) and concentration of different phosphorus fractions. The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression. The bars (c, d) were represented by slopes of the lines in (a, b), with the colors corresponding to the lines.*</i>
 
 ### 3.5 Variations in soil enzyme activities
 
@@ -122,7 +122,7 @@ Soil bacteria diversity increased with *C. oleifera* plantation (Fig. S4) and wa
 
 <img src="\images\article2\Fig7.jpg" alt=None/>
 
-***Fig. 7** The correlation between soil environment factors and bacteria bacteria diversity in different soil aggregates (< 2mm, 2-0.25mm, >0.25mm). Each circle in the graph represents the correlation between two corresponding indicators in the horizontal and vertical directions. The intensity of color represents the size of the Pearson correlation coefficient, with green indicating a negative Pearson coefficient and orange indicating a positive Pearson coefficient. The results with significant differences (P values < 0.05) are shown with *P < 0.05, **P < 0.01, and *** P < 0.001.*
+<i>**Fig. 7** The correlation between soil environment factors and bacteria bacteria diversity in different soil aggregates (< 2mm, 2-0.25mm, >0.25mm). Each circle in the graph represents the correlation between two corresponding indicators in the horizontal and vertical directions. The intensity of color represents the size of the Pearson correlation coefficient, with green indicating a negative Pearson coefficient and orange indicating a positive Pearson coefficient. The results with significant differences (P values < 0.05) are shown with *P < 0.05, **P < 0.01, and *** P < 0.001.</i>
 
 The relationship between indicator OTUs and phosphorus fractions was investigated using TITAN, which is based on increases (z+) or decreases (z–) in the abundance of indicator OTUs (Fig. 8). The contents of Al-P, Fe-P, and O-P were mainly correlated with phyla Proteobacteria, Verrucomicrobia, and Chloroflexi, while that of Ca-P was mainly correlated with phyla Acidobacteria, Patescibacteria, and Proteobacteria (Fig. 8). The results indicate that different kinds of phosphorus fractions were regulated by different kinds of bacteria.
 
@@ -221,7 +221,7 @@ Zhu J., M. Li and M. Whelan (2018) Phosphorus activators contribute to legacy ph
 
 <img src="\images\article2\Figs1.jpg" alt=None/>  
 
-***Fig. S1** The linear relationship between various environment factors (pH, ACP, AK) and available phosphorus (AP) content. The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression.*
+<i>**Fig. S1** The linear relationship between various environment factors (pH, ACP, AK) and available phosphorus (AP) content. The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression.*</i>
 
 <img src="\images\article2\Figs2.jpg" alt=None/>
 
@@ -229,7 +229,7 @@ Zhu J., M. Li and M. Whelan (2018) Phosphorus activators contribute to legacy ph
 
 <img src="\images\article2\Figs3.jpg" alt=None/>
 
-***Fig. S3** The linear relationship between soil Ca-P content and soil functional groups in different aggregates. The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (<0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression.*
+<i>**Fig. S3** The linear relationship between soil Ca-P content and soil functional groups in different aggregates. The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (< 0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression.*</i>
 
 <img src="\images\article2\Figs4.jpg" alt=None/>
 
@@ -237,7 +237,7 @@ Zhu J., M. Li and M. Whelan (2018) Phosphorus activators contribute to legacy ph
 
 <img src="\images\article2\Figs5.jpg" alt=None/>
 
-***Fig. S5** The linear relationship between soil phosphorus fractions content and microbial indicator (OTUs and Simpsons). The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (<0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p<0.05; **p<0.01; ***p<0.001 based on linear regression.*
+<i>**Fig. S5** The linear relationship between soil phosphorus fractions content and microbial indicator (OTUs and Simpsons). The soil aggregate sizes are categorized as follows: LM, large macroaggregate (>2 mm); SM, small microaggregate (2–0.25 mm); and Mi, microaggregate (< 0.25 mm). The shaded areas around the lines represent the 95% confidence interval. *p< 0.05; **p< 0.01; ***p< 0.001 based on linear regression.*</i>
 
 ***Table. S1** The content of major chemical factors in different soil aggregates during various cultivation periods.* 
 
