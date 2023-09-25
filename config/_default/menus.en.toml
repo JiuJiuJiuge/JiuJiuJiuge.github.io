@@ -25,6 +25,7 @@
   [[main]]
   name = "Life"
   weight = 500
+  url = "/life/"
   identifier = "life"
 
   [[main]]
