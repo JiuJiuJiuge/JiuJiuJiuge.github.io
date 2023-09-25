@@ -86,11 +86,13 @@ Soil trace elements content was significantly affected by the planting sites, C.
 
 To better understand the regularity of element distribution, we classified the element content according to plant yield and cultivars. The Mg and B contents (about 27%–34% and 56%–80%, respectively) were higher in the soil of high-yield plants than in low-yield plants (Figs. 2B and 2I). The contents of Fe and Al (around 6% and 4%, respectively) were higher in the soil of cultivar HJ than in cultivar XL (Figs. 2C and 2H). Ca content was lower in the soil of XL than in HJ (Fig. 2A).
 
-We also calculated the stoichiometry of soil trace elements (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) by the ratio of the concentration of every two elements. We obtained 36 groups of stoichiometry within 9 elements. The results with significant differences within different yields or cultivars are displayed in Figs. 3 and S2. High-yield plants had significantly higher B/Zn and B/Na (Figs. 3H and 3I) and significantly lower Fe/Mg, Mn/Mg, and Al/Mg (Figs. 3C, 3D, and 3E). The cultivar type also affected the stoichiometry of soil trace elements, with HJ soil having significantly higher Fe/Ca and Al/Ca (Figs. 3A and 3B). We also found that Al/Cu and B/Cu were significantly high in the soil of high-yield plants, with opposite results for the low-yield plants (Figs. 3F and 3G). 
-
 <img src="\images\article1\Fig2.jpg" alt=None/>
 
 *Fig. 2 Distribution of trace elements in soil with different yield and cultivars. XL, HJ mean Xianglin No. 1 and Huajing cultivar.*
+
+We also calculated the stoichiometry of soil trace elements (Ca, Mg, Fe, Mn, Cu, Zn, Na, Al, and B) by the ratio of the concentration of every two elements. We obtained 36 groups of stoichiometry within 9 elements. The results with significant differences within different yields or cultivars are displayed in Figs. 3 and S2. High-yield plants had significantly higher B/Zn and B/Na (Figs. 3H and 3I) and significantly lower Fe/Mg, Mn/Mg, and Al/Mg (Figs. 3C, 3D, and 3E). The cultivar type also affected the stoichiometry of soil trace elements, with HJ soil having significantly higher Fe/Ca and Al/Ca (Figs. 3A and 3B). We also found that Al/Cu and B/Cu were significantly high in the soil of high-yield plants, with opposite results for the low-yield plants (Figs. 3F and 3G). 
+
+
 
 
 
