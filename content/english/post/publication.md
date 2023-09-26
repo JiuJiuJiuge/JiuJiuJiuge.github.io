@@ -11,7 +11,7 @@ tags = [
 **Change in soil phosphorous distribution and bioavailability within water-stable aggregates under long-term Camellia Oleifera cultivation**   
 **Lu Yukun**, Luo Zipei, Yang Jing, Wu Lichao, Lu Sheng*  
 **Status**: Submitted in *Biology and Fertility of Soils*  
-[[Manuscript]](http://www.luyukun.xyz/papers/article2/) [[Code]]()
+[[Manuscript]](http://www.luyukun.xyz/papers/article2/) [[Code]](http://www.luyukun.xyz/code/code2/)
 
 **The stoichiometry of soil trace elements plays a critical role in regulating Camellia Oleifera nutrient accumulation and production**  
 **Lu Yukun**, Luo Zipei, Sun Qi, Deng Qin, Wu Lichao, Liao Jiayuan, Lu Sheng*, Yuan Jun*  
