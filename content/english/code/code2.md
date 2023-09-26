@@ -21,4 +21,29 @@ from shapely.geometry import Point
 import matplotlib as mpt
 mpt.rcParams['font.family'] = "Times New Roman"
 
+data = pd.read_excel("BAF.xlsx")
+data
+
+plt.figure(figsize=(4, 4))
+
+#Custom color
+dict_color=dict(Chi="#dbe2ef",You="#3f72af",Old="#112d4e")
+
+sns.barplot(x='size',y='BCF1',data=data,hue='age',palette=dict_color,alpha=0.8,capsize=0.1, #Lateral extension width of error line
+            saturation=5,errcolor='black',errwidth=0.5,ci=50)#Confidence interval error
+
+#Axis name
+plt.xlabel('Soil aggregate size (mm)',fontsize=15)
+plt.ylabel('BAF (%)',fontsize=15)
+
+#Range of axes
+plt.ylim(0,2000) 
+
+#legend
+plt.legend(loc = 'best',frameon=True,fontsize=12,ncol=1)
+
+#Set the scale font size
+plt.tick_params(labelsize=15)
+
+plt.savefig(f"Fig/BCF.jpg",bbox_inches="tight",dpi=600)
 ```
