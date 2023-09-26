@@ -178,6 +178,117 @@ plt.savefig(f"Fig/LM.jpg", bbox_inches="tight", dpi=600)
 ## Fig4(a)
 ```python
 # Python
+# Import necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+import geopandas as gp
+from shapely.geometry import Point
+from matplotlib.colors import ListedColormap 
+import seaborn as sns
+import matplotlib as mpt
+from libtiff import TIFF
 
+# Set the font family for matplotlib
+mpt.rcParams['font.family'] = "Times New Roman"
 
+# Read data from an Excel file named "adata.xlsx" from different sheets
+data2 = pd.read_excel("adata.xlsx", sheet_name='Mi')
+data1 = pd.read_excel("adata.xlsx", sheet_name='SM')
+data = pd.read_excel("adata.xlsx", sheet_name='LM')
+
+# Create a figure with a specified size
+plt.figure(figsize=(5, 4))
+
+# Create a regression plot with confidence interval and scatter plot for data2
+sns.regplot(x='SOM', y='AlP', data=data2, ci=95, order=1,
+            line_kws=dict(color="#ec748b", alpha=1, lw=2, zorder=100, linestyle='-'),
+            scatter_kws=dict(s=0.00000001, color="k", linewidths=0.04, edgecolors='b', alpha=0.8, zorder=-50))
+
+# Create a scatter plot for data2
+plt.scatter(x="SOM", y="AlP", data=data2, color="#ec748b", alpha=1, linewidths=0.2, edgecolors='black', vmin=0.2, vmax=1.8)
+
+# Create a regression plot with confidence interval and scatter plot for data1
+sns.regplot(x='SOM', y='AlP', data=data1, ci=95, order=1,
+            line_kws=dict(color="#6eb1de", alpha=1, lw=2, zorder=100, linestyle='-'),
+            scatter_kws=dict(s=0.00000001, color="k", linewidths=0.04, edgecolors='b', alpha=0.8, zorder=-50))
+
+# Create a scatter plot for data1
+plt.scatter(x="SOM", y="AlP", data=data1, alpha=1, color="#6eb1de", linewidths=0.2, edgecolors='black', vmin=0.2, vmax=1.8)
+
+# Create a regression plot with confidence interval and scatter plot for data
+sns.regplot(x='SOM', y='AlP', data=data, ci=95, order=1,
+            line_kws=dict(color="#6bb952", alpha=1, lw=2, zorder=100, linestyle='-'),
+            scatter_kws=dict(s=0.00000001, color="k", linewidths=0.04, edgecolors='b', alpha=0.8, zorder=-50))
+
+# Create a scatter plot for data
+plt.scatter(x="SOM", y="AlP", data=data, color="#6bb952", alpha=1, linewidths=0.2, edgecolors='black', vmin=0.2, vmax=1.8, s=40)
+
+# Set y-axis and x-axis labels
+plt.ylabel('Al-P (mg·kg$^{-1}$)', fontsize=22)
+plt.xlabel('SOM (g·kg$^{-1}$)', fontsize=22)
+ 
+# Set y-axis limits and ticks
+plt.ylim(-15, 30)
+plt.yticks([-15, 0, 15, 30]) 
+
+# Set tick label font size
+plt.tick_params(labelsize=18)
+
+# Add a legend with specified location, frame, font size, and other properties
+plt.legend(loc="right", frameon=False, fontsize=12, markerscale=1, bbox_to_anchor=(2, 0.0))
+
+# Save the figure to a file with a specified format, tight layout, and DPI
+plt.savefig(f"Fig/alp_som.jpg", bbox_inches="tight", dpi=600)
+# Same as others
 ```
+
+## Fig4(b)
+```python
+# The slope and significance were calculated using spss in advance
+# Import necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+import geopandas as gp
+from shapely.geometry import Point
+from matplotlib.colors import ListedColormap 
+import seaborn as sns
+import matplotlib as mpt
+from libtiff import TIFF
+
+# Create a bar plot figure with a specified size
+plt.figure(figsize=(5, 4))
+
+# Define the x-axis values and the corresponding slopes
+index = np.arange(5)
+values = [0.22, 0, 0.09, 0, -0.41]
+
+# Create a bar plot with specified colors
+plt.bar(index, values, color=["#6bb952", 'b', "#6eb1de", 'b', "#ec748b"], alpha=1)
+
+# Set y-axis and x-axis limits and ticks
+plt.ylim(-0.5, 0.5) 
+plt.xlim(-1, 5)
+plt.xticks([0, 1, 2, 3, 4, 5]) 
+
+# Set x-axis tick labels
+plt.gca().set_xticklabels(['> 2', "", '2-0.25', "", '< 0.25'])
+
+# Set x and y axis labels
+plt.xlabel('Soil aggregate size (mm)', fontsize=22)
+plt.ylabel('Slope', fontsize=22)
+
+# Set tick label font size
+plt.tick_params(labelsize=18)
+
+# Add a horizontal line at y=0 for reference
+plt.axhline(0, color='black', linestyle=":", alpha=0.5)
+
+# Save the figure to a file with a specified format, tight layout, and DPI
+plt.savefig(f"Fig/alp_slope.jpg", bbox_inches="tight", dpi=600)
+# Same as ohters
+```
+
