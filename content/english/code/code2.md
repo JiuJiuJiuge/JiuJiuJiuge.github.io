@@ -174,3 +174,10 @@ sns.despine(top=False, right=False, left=False, bottom=False)
 plt.savefig(f"Fig/LM.jpg", bbox_inches="tight", dpi=600)
 # Same as others
 ```
+
+## Fig4(a)
+```python
+# Python
+
+
+```
