@@ -405,4 +405,192 @@ plt.savefig(f"Fig/totalC=C_slope.jpg", bbox_inches="tight", dpi=600)
 # Same as Fig5(d)
 ```
 
-Fig6
+## Fig6
+```python
+#Python
+#Fig6(a)
+# Import necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os
+import geopandas as gp
+from shapely.geometry import Point
+import matplotlib as mpt
+
+# Set the font family for matplotlib
+mpt.rcParams['font.family'] = "Times New Roman"
+
+# Read data from an Excel file named "enzyme.xlsx" from the 'ACP' sheet
+data = pd.read_excel("enzyme.xlsx", sheet_name='ACP')
+
+# Create a bar plot figure with a specified size
+plt.figure(figsize=(4, 4))
+
+# Define a color dictionary for age groups
+dict_color = dict(Chi="#d0eef4", You="#7bd3d4", Old="#208993")
+
+# Create a bar plot using Seaborn
+sns.barplot(x='size', y='ACP', data=data, hue='age', palette=dict_color, alpha=0.8, capsize=0.1, saturation=5, errcolor='black', errwidth=0.5, ci=50)
+
+# Set x and y axis labels
+plt.xlabel('Soil aggregate size (mm)', fontsize=15)
+plt.ylabel('ACP (mg·g$^{-1}$)', fontsize=15)
+
+# Set the y-axis limits and ticks
+plt.ylim(0, 40)
+plt.yticks([0, 10, 20, 30, 40]) 
+
+# Add a legend with specified location, frame, and font size
+plt.legend(loc='best', frameon=True, fontsize=10)
+
+# Add text to indicate the subplot as "(a)"
+plt.text(-0.40, 36, "(a)", size=20)
+
+# Set tick label font size
+plt.tick_params(labelsize=15)
+
+# Save the figure to a file with a specified format, tight layout, and DPI
+plt.savefig(f"Fig/ACP.jpg", bbox_inches="tight", dpi=600)
+# Same as others
+```
+
+## Fig8
+```R
+# R
+# TITAN package usage
+rm(list = ls())
+
+library(TITAN2)
+
+data1<- read.delim("D:/titan/taxa2.txt")
+rownames(data1)<-data1[,1] 
+data1<-data1[,-1] 
+head(data1) 
+
+data2<- read.delim("D:/titan/AlP.txt")
+rownames(data2)<-data2[,1] 
+data2<-data2[,-1] 
+head(data2) 
+
+res = titan(data2, 
+            data1,
+            minSplt = 5,
+            numPerm = 500,
+            boot = TRUE,
+            
+            nBoot = 500,
+            imax = FALSE,
+            ivTot = FALSE,
+            pur.cut = 0.95,
+            rel.cut = 0.95,
+            ncpus = 1,
+            memory = FALSE)
+
+file_path <- "D:/titan/last/alp_real_taxa.csv"
+write.csv(res['sppmax'], file = file_path, row.names = FALSE)
+
+
+plot_taxa_ridges(res,
+                 xlabel = expression(paste("The content of Ca-P (mg/g)")),
+                 n_ytaxa = 50,
+                 ytxt.sz = 0.01,
+                 #xlim=c(2.5,10),
+                 #z1_fill_low=0,
+                 #z1_fill_high=6.5,
+                 #z2_fill_low=0,
+                 #z2_fill_high=5,
+)
+```
+
+```R
+# R
+# ggplot usage
+rm(list = ls())
+library(ggplot2)
+dax<- read.delim("D:/titan/last/alp_real_taxa.txt")
+
+ggplot( )+
+  #geom_text(data=dax,aes(x=ord+0.5, y=zenv.cp+2, label = class,color = class), size = 3)+
+  geom_pointrange(data=dax,aes(x=ord, y=zenv.cp, ymin=X5., ymax=X95.,color = Phyla, shape = Titan, linetype=Titan), size =0.8)+
+  scale_shape_manual(values=c(16, 1)) + coord_flip() + ylab("Al-P (mg/g)") + xlab("OTUs") + 
+  scale_y_continuous(breaks=c(24,26,28,30,32,34))+
+  theme(panel.background = element_rect(fill = NA)) + 
+  guides(color=guide_legend(title= "Microbes Phylum"))+
+  theme(strip.text = element_text(size = 15,face="bold"),
+        legend.title = element_text(colour="black", size=20, face="bold"),
+        legend.text = element_text(colour="black", size=20, face="bold"),
+        axis.text = element_text(size = 10, face = "bold"),
+        axis.title=element_text(size=20,face="bold"),
+        axis.line = element_line(linetype = "solid"))+
+  scale_color_manual(values=c("#48ad3b","#3e599a","#ff3f2e",
+                              "#ee7530","#fedf43", "#00b6c9",
+                              "#ffbec2",'#236034',"#B4B4D5",
+                              '#c9bcb7','#614099','#d67267'))
+```
+
+## Fig9(b)
+```R
+#R
+#Install the plspm package
+install.packages('devtools')
+devtools::install_github('gastonstat/plspm')
+
+#Load the plspm package
+library(plspm)
+
+#Read data
+dat <- read.delim("D:/plspm/P.txt")
+
+#Specifies the latent variable, storing the relationship between the variable and the latent variable as a list in R
+dat_blocks <- list(
+  Age = 'age', 
+  Physical = c('QM','size','KCTP','Clay','Silt'), 
+  Biological = c('OTUs','Ure','SuCr','CAT','ACP'),
+  Chemical = c('pH','AK','AN','SOM','CN','OH','CH'),
+  P_availability = c('AP','OP','AlP')
+)
+dat_blocks
+
+#Correlations between latent variables are described by a 0-1 matrix, where 0 represents no correlation between variables and 1 represents correlation
+Age <- c(0, 0, 0, 0, 0)
+Physical <- c(1, 0, 0, 0, 0)
+Biological <- c(1, 0, 0, 1, 0)
+Chemical <- c(1, 1, 0, 0, 0)
+P_availability <- c(0,1,1,1,0)
+
+dat_path <- rbind(Age, Physical , Biological,Chemical, P_availability)
+colnames(dat_path) <- rownames(dat_path)
+dat_path
+
+#Specify causation
+dat_modes <- rep('A', 5)
+dat_modes
+
+#Build a PLS-PM model
+dat_pls <- plspm(dat, dat_path, dat_blocks, modes = dat_modes)
+dat_pls
+summary(dat_pls)
+
+#View parameter estimates for path coefficients and related statistics
+dat_pls$path_coefs
+dat_pls$inner_model
+
+#View the cause-and-effect path map
+innerplot(dat_pls, colpos = 'red', colneg = 'blue', show.values = TRUE, lcol = 'gray', box.lwd = 0)
+
+#View the state as an exogenous latent variable and an endogenous latent variable
+dat_pls$inner_summary
+
+#View the influence status between variables
+dat_pls$effects
+
+#Look at the relationship between observed and latent variables
+dat_pls$outer_model
+outerplot(dat_pls, what = 'loadings', arr.width = 0.1, colpos = 'red', colneg = 'blue', show.values = TRUE, lcol = 'gray')
+outerplot(dat_pls, what = 'weights', arr.width = 0.1, colpos = 'red', colneg = 'blue', show.values = TRUE, lcol = 'gray')
+
+#Evaluate model goodness
+dat_pls$gof
+```
