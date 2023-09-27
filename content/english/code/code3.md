@@ -219,3 +219,62 @@ plt.text(-5, 1300, "(b)", size=20)
 # Save the figure to a file with a specified format, tight layout, and DPI
 plt.savefig(f"Fig/FigN2O_flux_SW_PPET.jpg", bbox_inches="tight", dpi=600)
 ```
+## Fig2(c)
+```python
+# Python
+# Import necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Create a figure with a specified size
+plt.figure(figsize=(5.5, 3.5))
+
+# Read data from an Excel file named "Data_N2O_LJY_20221021.xlsx" from the 'line' sheet
+data = pd.read_excel("Data_N2O_LJY_20221021.xlsx", sheet_name='line')
+
+# Define a dictionary for mapping climate zones to colors
+dict_color = dict(Arid="#FB7D07", Semi="#7CFC00", Humid="#0FF1F9", Extreme="#1E90FF")
+
+# Create a bar plot (barplot) with specific settings
+ax = sns.barplot(x='climate', y='N2O', data=data, color='dict_color', capsize=0.1,
+                 saturation=1, errcolor='k', errwidth=0.5, ci=100)
+
+# Set the y-axis limits and ticks
+plt.ylim(0, 400)
+plt.yticks([0, 100, 200, 300, 400])
+
+# Set y-axis and x-axis labels
+plt.ylabel("$\mathregular{N_2}$O fluxes(μgN·m$^{-2}$·h$^{-1}$)", color='k', fontsize=18)
+plt.xlabel('Climate zones', color='k', fontsize=18)
+
+# Set tick label font size and rotate x-axis labels to 0 degrees
+plt.tick_params(labelsize=13)
+plt.xticks(rotation=0)
+
+# Add text to indicate the subplot as "(c)"
+plt.text(-0.4, 360, "(c)", size=20)
+
+# Set the counts for each column
+columncounts = [40, 40, 40, 40]
+
+# Define a function to normalize counts to the interval 0-1
+def normaliseCounts(widths, maxwidth):
+    widths = np.array(widths) / float(maxwidth)
+    return widths
+
+# Normalize the counts and adjust the bar widths and positions
+widthbars = normaliseCounts(columncounts, 100)
+for bar, newwidth in zip(ax.patches, widthbars):
+    x = bar.get_x()
+    width = bar.get_width()
+    centre = x + width / 2.
+    bar.set_x(centre - newwidth / 2.)
+    bar.set_width(newwidth)
+
+# Save the figure to a file with a specified format, tight layout, and DPI
+plt.savefig(f"Fig/Figbar.jpg", bbox_inches="tight", dpi=600)
+```
+<img src="\images\article3\Fig2.jpg" alt=None/>
+
