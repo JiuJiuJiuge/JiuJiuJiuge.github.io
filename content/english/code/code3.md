@@ -279,5 +279,49 @@ plt.savefig(f"Fig/Figbar.jpg", bbox_inches="tight", dpi=600)
 <img src="\images\article3\Fig2.jpg" alt=None/>
 
 ## Fig3
+```python
+# Python
+# Arrange the scatter plot in advance
+# Import necessary libraries
+%matplotlib inline
+import pandas as pd
+from mpl_toolkits.axisartist.parasite_axes import HostAxes, ParasiteAxes
+import matplotlib.pyplot as plt
+import matplotlib as mpt
+import seaborn as sns
+import numpy as np
+import matplotlib.ticker as ticker
+
+# Set font family to "Times New Roman"
+mpt.rcParams['font.family'] = "Times New Roman"
+
+# Read data from an Excel file named "tree.xlsx"
+data = pd.read_excel("tree.xlsx")
+
+# Create a figure with a specified size
+plt.figure(figsize=(3.5, 3.5))
+
+# Create a scatter plot with specific settings, including color mapping for 'fluxes' using a Blues colormap
+plt.scatter(x='x', y='y', c="fluxes", data=data, cmap='Blues', alpha=1, vmin=0, vmax=200,
+            marker='o', s=40, linewidths=0.1, edgecolors='k')
+
+# Add a colorbar with specific settings
+cbar = plt.colorbar(orientation='vertical', drawedges=False, shrink=1, pad=0.03)
+cbar.ax.set_ylabel('$\mathregular{N_2}$O fluxes(μgN·m$^{-2}$·h$^{-1}$)', size=12)
+
+# Remove y and x-axis labels
+plt.ylabel('', fontsize=13)
+plt.xlabel('', fontsize=13)
+
+# Set y-axis and x-axis limits
+plt.ylim(0, 40)
+plt.xlim(0, 7)
+
+# Set tick label font size
+plt.tick_params(labelsize=13)
+
+# Save the figure to a file with a specified format, tight layout, and DPI
+plt.savefig(f"Fig/Tree.jpg", bbox_inches="tight", dpi=600)
+```
 
 <img src="\images\article3\Fig3.jpg" alt=None/>
