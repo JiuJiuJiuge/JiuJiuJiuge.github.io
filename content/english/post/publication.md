@@ -15,8 +15,9 @@ tags = [
 
 **The stoichiometry of soil trace elements plays a critical role in regulating Camellia Oleifera nutrient accumulation and production**  
 **Lu Yukun**, Luo Zipei, Sun Qi, Deng Qin, Wu Lichao, Liao Jiayuan, Lu Sheng*, Yuan Jun*  
-**Status**: Submitted in *Journal of Soil Science and Plant Nutrition*  
+**Status:** Submitted in *Journal of Soil Science and Plant Nutrition*  
 [[Manuscript]](http://www.luyukun.xyz/papers/article1/)
 
-**Global nitrous oxide flux emissions in different climate zones**  
-[Code]
+**Global nitrous oxide flux emissions in different climate zones** 
+**Status:** Writing
+[[Code]](http://www.luyukun.xyz/code/code3/)
