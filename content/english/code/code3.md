@@ -278,3 +278,6 @@ plt.savefig(f"Fig/Figbar.jpg", bbox_inches="tight", dpi=600)
 ```
 <img src="\images\article3\Fig2.jpg" alt=None/>
 
+## Fig3
+
+<img src="\images\article3\Fig3.jpg" alt=None/>
