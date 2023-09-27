@@ -109,3 +109,4 @@ plt.title('Arid', fontsize=17)
 # Save the figure to a file with a specified format, tight layout, and DPI
 plt.savefig(f"Fig/Fig_pie_arid.jpg", bbox_inches="tight", dpi=600)
 ```
+<img src="\images\article3\Fig1.jpg" alt=None/>
