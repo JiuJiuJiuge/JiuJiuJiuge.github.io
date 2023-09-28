@@ -12,4 +12,4 @@ tags = [
 
 **Computer Skills**: Python, R, SPSS, Origin, HTML, Markdown, a wide variety of online tools (Biorender, Github, Medpeer, FigDraw, Chiplot…), Microsoft Office (Word, Excel, and PowerPoint).
 
-[Click here to see some of my code]()
+[Click here to see some of my code](http://www.luyukun.xyz/code/)
