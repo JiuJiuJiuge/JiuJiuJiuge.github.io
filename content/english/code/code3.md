@@ -325,3 +325,161 @@ plt.savefig(f"Fig/Tree.jpg", bbox_inches="tight", dpi=600)
 ```
 
 <img src="\images\article3\Fig3.jpg" alt=None/>
+
+## Fig4(a)
+```python
+#python
+# Import necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+import os
+import geopandas as gp
+from shapely.geometry import Point
+import seaborn as sns
+import matplotlib as mpt
+from libtiff import TIFF
+
+# Set the font family to "Times New Roman"
+mpt.rcParams['font.family'] = "Times New Roman"
+
+# Read data from an Excel file named "SIZE2.xlsx"
+data = pd.read_excel("SIZE2.xlsx")
+
+# Create a figure with a specified size
+fig, ax = plt.subplots(figsize=(12, 12))
+
+# Load world map data
+world = gp.read_file(gp.datasets.get_path('naturalearth_lowres'))
+
+# Plot the world map as the background
+world.plot(ax=ax, color='white', edgecolor='k', linewidth=0.2, alpha=0.8)
+
+# Set the aspect ratio to be equal
+ax.set_aspect('equal')
+
+# Create scatter plots for different land cover types with specified colors, sizes, and labels
+P1 = plt.scatter(x='Longitude_A', y='Latitude_A', c="#f2a20d", alpha=1, data=data,
+                 marker='o', label='Cropland', s="SIZE_A", linewidths=0.1, edgecolors='b')
+
+P2 = plt.scatter(x='Longitude_B', y='Latitude_B', c="#5ca781", alpha=1, data=data,
+                 marker='o', label='Forest', s="SIZE_B", linewidths=0.1, edgecolors='b')
+
+P3 = plt.scatter(x='Longitude_C', y='Latitude_C', c="#358b9c", alpha=1, data=data,
+                 marker='o', label='Grassland', s="SIZE_C", linewidths=0.1, edgecolors='b')
+
+P4 = plt.scatter(x='Longitude_D', y='Latitude_D', c="#d26763", alpha=1, data=data,
+                 marker='o', label='Plantation', s="SIZE_D", linewidths=0.1, edgecolors='b')
+
+# Set y-axis and x-axis limits and tick positions
+plt.ylim(-60, 85)
+plt.yticks([-50, -25, 0, 25, 50, 75])
+plt.xlim(-165, 185)
+plt.xticks([-150, -100, -50, 0, 50, 100, 150])
+
+# Set tick label font size
+plt.tick_params(labelsize=15)
+
+# Add a text label "(a)"
+plt.text(-164, 75, "(a)", size=20)
+
+# Add a legend with specified settings
+plt.legend(loc='best', frameon=True, fontsize=15)
+
+# Save the figure to a file with a specified format and DPI
+plt.savefig(f"Fig/AI distribution map legend.jpg", bbox_inches="tight", dpi=600)
+```
+
+# Fig4(b)
+```python
+# Python
+# Create a new figure with a specified size
+plt.figure(figsize=(8, 6))
+
+# Read data from a CSV file, setting 'zone' column as the index
+data = pd.read_csv('data.csv', index_col='zone')
+
+# Select specific columns from the data and create a horizontal stacked bar plot
+data1 = data[['Cropland', 'Forest', 'Grassland', 'Plantation']]
+data1.plot(kind='barh', use_index=True, stacked=True, color=('#f2a20d', '#5ca781', '#358b9c', '#d26763'))
+
+# Set the font size for tick labels
+plt.tick_params(labelsize=15)
+
+# Set the label for the x-axis and specify its font size
+plt.xlabel('Nitrogen application (KgN·ha$^{-1}$)', fontsize=18)
+
+# Set the x-axis and y-axis limits
+plt.xlim(0, 1200)
+plt.ylim(-0.8, 3.8)
+
+# Add a legend with specified settings
+plt.legend(fontsize=20, ncol=5)
+
+# Add text label "(b)"
+plt.text(0, 3.45, "(b)", size=20)
+
+# Save the figure to a file with a specified format and DPI
+plt.savefig(f"Fig/fig4(b).jpg", bbox_inches="tight", dpi=600)
+
+```
+
+# Fig4(c)
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+def mscatter(x, y, ax=None, m=None, **kw):
+    import matplotlib.markers as mmarkers
+    if not ax:
+        ax = plt.gca()
+    sc = ax.scatter(x, y, **kw)
+    if (m is not None) and (len(m) == len(x)):
+        paths = []
+        for marker in m:
+            if isinstance(marker, mmarkers.MarkerStyle):
+                marker_obj = marker
+            else:
+                marker_obj = mmarkers.MarkerStyle(marker)
+            path = marker_obj.get_path().transformed(marker_obj.get_transform())
+            paths.append(path)
+        sc.set_paths(paths)
+    return sc
+
+N = 15
+x = [188.639, 83.606, 252.779, 238.157, 90.2, 324.484, 112.5, 226.117, 56.935, 207.386, 120, 230.513, 89.949, 301.417, 217.477]
+y = [112.75, 64.96, 16.94, 110.68, 16.49, 126.5, 18.85, 97.23, 38.59, 69.71, 131.13, 268.38, 43, 137.64, 150.56]
+c = [1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4]
+g = [5, 7, 8, 5, 6, 7, 8, 5, 6, 7, 8, 5, 6, 7, 8]
+h = {5: '#f2a20d', 6: '#5ca781', 7: '#358b9c', 8: '#d26763'}
+m = {1: 'o', 2: 's', 3: 'D', 4: '^'}
+cm = list(map(lambda x: m[x], c))
+ch = list(map(lambda x: h[x], g))
+
+fig, ax = plt.subplots()
+
+scatter = mscatter(x, y, c=ch, m=cm, ax=ax, cmap=plt.cm.RdYlBu, s=125, edgecolors='black')
+
+# Generate a regression plot using seaborn
+data2 = pd.DataFrame({'fertilizer': x, 'fluxes': y})  # Convert x and y to a DataFrame
+sns.regplot(x='fertilizer', y='fluxes', data=data2, ci=0, order=1,
+            line_kws=dict(color="k", alpha=1, lw=2, zorder=100, linestyle='--'),
+            scatter_kws=dict(s=0.00000001, color="k", linewidths=0.04, edgecolors='b', alpha=0.8, zorder=-50))
+
+# Set the axis labels
+plt.xlabel('Nitrogen application (KgN·ha$^{-1}$)', fontsize=18)
+plt.ylabel('$\mathregular{N_2}$O fluxes (μgN·m$^{-2}$·h$^{-1}$)', fontsize=18)
+
+# Adjust the font size of ticks
+plt.tick_params(labelsize=15)
+
+# Save the figure
+plt.savefig("Fig/point.jpg", bbox_inches="tight", dpi=600)
+
+# Display the plot (optional)
+plt.show()
+```
+
+<img src="\images\article3\Fig4.jpg" alt=None/>
