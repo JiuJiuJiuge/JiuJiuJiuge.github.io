@@ -16,4 +16,4 @@ My research interests extend to the study of **soil phosphorus fractions**, **ni
 
 Currently, I am involved in two research projects related to soil nutrient and two projects exploring global N2O regulation mechanisms.  I have authored two research papers **as the first author**, which are currently under submission to the *Journal of Soil Science and Plant Nutrient* and *Catena*.
 
-<font color=red>I am currently in the process of applying for PhD programs for the Fall 2024 term, focusing on soil science and environmental science.  Feel free to reach out to me anytime for academic discussions and collaborations!</font>
+<font color=red>I am currently in the process of applying for MSc or PhD programs for the Fall 2024 term, focusing on soil science and environmental science.  Feel free to reach out to me anytime for academic discussions and collaborations!</font>
