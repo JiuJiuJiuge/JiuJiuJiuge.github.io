@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-**Languages**: Mandarin (Native), English (Duolingo: )
+**Languages**: Mandarin (Native), English (Duolingo:125 )
 
 **Computer Skills**: Python, R, SPSS, Origin, HTML, Markdown, a wide variety of online tools (Biorender, Github, Medpeer, FigDraw, Chiplot…), Microsoft Office (Word, Excel, and PowerPoint).
 
